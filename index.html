@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JFK: Competing Hypotheses</title>
+<meta name="description" content="An Analysis of Competing Hypotheses on the assassination of President John F. Kennedy: who fired the shots, and who, if anyone, was behind it, with every piece of evidence sourced. By jc0h3n, built on Open ACH.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1><button class="link home" data-view="analyses">JFK: Competing Hypotheses</button></h1>
+      <p class="tagline">The Kennedy assassination, tested with Analysis of Competing Hypotheses · by jc0h3n</p>
+    </div>
+    <nav id="nav" aria-label="Views"></nav>
+  </header>
+  <p class="status" id="status" role="status" aria-live="polite"></p>
+
+  <main>
+    <!-- Analyses -->
+    <section id="view-analyses" class="view col">
+      <p class="lede">Sixty years of theories about the assassination of President Kennedy, tested the way intelligence analysts test competing explanations: list every plausible hypothesis, rate each piece of evidence against all of them, and favor the hypothesis with the least evidence <i>against</i> it, not the one with the most evidence for it.</p>
+      <p>There are two analyses below. <b>(A) Who fired the shots?</b> weighs the physical, medical, photographic, acoustic and eyewitness evidence. <b>(B) Who was behind it?</b> weighs seven explanations, from Oswald alone to organized crime, the CIA, Cuba, the KGB, the military and a broader coalition. Every item cites its source, and well-known counter-explanations are in its notes. How the evidence was chosen and weighted: <a href="https://github.com/jc0h3n/jfk-hypotheses/blob/main/METHOD.md">Method</a> · <a href="https://github.com/jc0h3n/jfk-hypotheses/blob/main/SOURCES.md">Sources</a>.</p>
+      <p class="muted">This is a work in progress: ratings and conclusions are being added as the analysis continues. You can change anything to try your own judgments; changes stay in your browser only, and nothing is sent anywhere. To go back to the published version, delete your copy and reload.</p>
+      <div class="actions">
+        <button class="btn primary" id="new">New analysis</button>
+        <label class="btn" for="open-file">Open file…</label>
+        <input type="file" id="open-file" accept=".json,application/json" hidden>
+        <button class="btn" id="example" hidden>Load the worked example</button>
+      </div>
+      <p class="error" id="open-error" hidden></p>
+      <h2>Saved in this browser</h2>
+      <ul class="saved" id="saved"></ul>
+    </section>
+
+    <!-- Matrix -->
+    <section id="view-matrix" class="view" hidden>
+      <div class="col">
+        <label class="sr" for="a-title">Title</label>
+        <input id="a-title" class="title-input" placeholder="Name this analysis">
+        <label class="field">Key question <textarea id="a-question" rows="2" placeholder="What are you trying to explain or predict?"></textarea></label>
+        <label class="field narrow">Analyst <input id="a-analyst" placeholder="Optional"></label>
+      </div>
+      <details class="checks col" id="checks" open><summary>Next steps</summary><ol id="checks-list"></ol></details>
+
+      <div class="workspace">
+        <div class="matrix-col">
+          <div class="adders">
+            <form id="add-h" class="adder"><label for="h-text">Add a hypothesis</label><div class="row"><input id="h-text" placeholder="e.g. The outage was caused by equipment failure"><button class="btn">Add</button></div></form>
+            <form id="add-e" class="adder"><label for="e-text">Add evidence <span class="muted">(one item per line)</span></label><div class="row"><textarea id="e-text" rows="2" placeholder="e.g. Logs show no unusual logins in the 30 days before"></textarea><button class="btn">Add</button></div></form>
+          </div>
+          <div class="matrix-tools">
+            <span class="muted">Order evidence:</span>
+            <button class="link" data-order="entered">as entered</button> /
+            <button class="link" data-order="diag">most diagnostic first</button>
+            <span class="legend" id="legend"></span>
+          </div>
+          <div class="matrix-wrap" id="matrix"></div>
+        </div>
+        <aside class="results" id="results" aria-label="Results"></aside>
+      </div>
+    </section>
+
+    <!-- Report -->
+    <section id="view-report" class="view" hidden>
+      <div class="col">
+        <h2>Conclusion</h2>
+        <p class="muted">Say how likely each hypothesis is relative to the others, and why the less likely ones were rejected.</p>
+        <textarea id="a-conclusion" rows="6"></textarea>
+        <h2>Milestones</h2>
+        <p class="muted">Future events or findings that would show your conclusion is wrong, or that events are taking a different course.</p>
+        <form id="add-m" class="row"><input id="m-text" aria-label="New milestone" placeholder="e.g. Lab analysis finds external surge damage"><button class="btn">Add</button></form>
+        <ul class="milestones" id="milestones"></ul>
+        <h2>Export</h2>
+        <div class="actions">
+          <button class="btn primary" data-export="md">Report (Markdown)</button>
+          <button class="btn" data-export="csv">Matrix (CSV)</button>
+          <button class="btn" data-export="json">Analysis file (JSON)</button>
+        </div>
+        <h2>Preview</h2>
+      </div>
+      <article class="report" id="report"></article>
+    </section>
+
+    <!-- Guide -->
+    <section id="view-guide" class="view col" hidden>
+      <h2>How ACH works</h2>
+      <p>Analysis of Competing Hypotheses was developed by Richards J. Heuer Jr. at the CIA in the 1970s to counter a common trap: settling on the first plausible explanation and then noticing mostly the evidence that fits it. ACH makes you consider every reasonable explanation at once, and judge them by the evidence <i>against</i> each one.</p>
+      <ol class="steps">
+        <li><b>Hypotheses.</b> List every plausible explanation, including ones you think are unlikely and ones involving deception. A group brainstorm works well here.</li>
+        <li><b>Evidence.</b> List the evidence and arguments that bear on the question. Include your assumptions, and the absence of things you'd expect to see.</li>
+        <li><b>Matrix.</b> Rate each item against every hypothesis by working across a row, not down a column. Ask: if this hypothesis were true, how likely is it I'd see this?</li>
+        <li><b>Refine.</b> Reword or combine hypotheses as you learn more. Set aside evidence that's consistent with everything, because it doesn't help you choose.</li>
+        <li><b>Tentative conclusions.</b> Look for the hypothesis with the <i>least</i> evidence against it. Try to disprove hypotheses rather than prove them.</li>
+        <li><b>Sensitivity.</b> Ask which few items your conclusion depends on. What if they're wrong, misread, or planted? Check their sources.</li>
+        <li><b>Report.</b> Discuss the relative likelihood of every hypothesis, not just the winner, so readers see what was considered and rejected.</li>
+        <li><b>Milestones.</b> Note what you'd expect to see if your conclusion is wrong, and watch for it.</li>
+      </ol>
+      <h2>Ratings</h2>
+      <dl class="defs" id="rating-defs"></dl>
+      <h2>How the scores work</h2>
+      <p><b>Weighted inconsistency.</b> Each Inconsistent rating counts 1 point against a hypothesis and each Very inconsistent rating counts 2. Each point is multiplied by the evidence's credibility and relevance (Low 0.5, Medium 1, High 1.5), so a highly credible, highly relevant item that's very inconsistent counts 4.5. Lower is better. Consistent ratings don't add points, because evidence that fits several hypotheses doesn't help you choose between them.</p>
+      <p><b>Diagnosticity</b> measures how much an item's ratings differ across hypotheses. Ratings are scored from Very consistent (+2) to Very inconsistent (−2); the spread between the highest and lowest is 0 for "not diagnostic" and 3 or more for "high."</p>
+      <p><b>Sensitivity</b> removes each item of evidence in turn and checks whether a different hypothesis would lead. Items that change the leader are flagged as critical.</p>
+      <p>The scores are an aid to judgment, not a verdict. Heuer's advice was to use the matrix to see your reasoning clearly, then decide for yourself.</p>
+      <h2>Credits</h2>
+      <p>The method comes from Richards J. Heuer Jr., <a href="https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/">Psychology of Intelligence Analysis</a> (CIA Center for the Study of Intelligence, 1999), chapter 8. This app is a new implementation inspired by the open-source collaborative ACH by Matthew Burton and Joshua Knowles (<a href="https://github.com/Burton/Analysis-of-Competing-Hypotheses">Burton/Analysis-of-Competing-Hypotheses</a>, 2010). Like that project, it's free software under the GNU GPL v3.</p>
+    </section>
+  </main>
+
+  <footer class="site">An analysis by jc0h3n, built on <a href="https://jc0h3n.github.io/open-ach/">Open ACH</a> (free software under the GNU GPL v3). Changes you make stay in this browser only; the site loads no fonts, analytics or third-party scripts. <a href="https://github.com/jc0h3n/jfk-hypotheses">Source and data</a></footer>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

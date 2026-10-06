@@ -1,0 +1,491 @@
+{
+  "format": "open-ach/1",
+  "id": "jfk-b-who-was-behind-it",
+  "title": "JFK (B): Who was behind the assassination?",
+  "question": "Who, if anyone, planned or directed the assassination of President Kennedy?",
+  "analyst": "",
+  "created": "2026-10-06T14:40:20.230Z",
+  "updated": "2026-10-06T14:57:57.918Z",
+  "hypotheses": [
+    {
+      "id": "hb1",
+      "text": "No one: Oswald acted alone",
+      "notes": "Course Thesis 1; the Warren Commission."
+    },
+    {
+      "id": "hb2",
+      "text": "Organized crime (Marcello, Trafficante, Giancana), possibly using anti-Castro Cubans",
+      "notes": "Course Theses 3 (HSCA / Blakey & Billings) and 6 (Trafficante's \"S-Force\")."
+    },
+    {
+      "id": "hb3",
+      "text": "Elements of the CIA, working with anti-Castro Cuban exiles",
+      "notes": "Course Theses 2 (the CIA) and 4 (Garrison's case against Clay Shaw)."
+    },
+    {
+      "id": "hb4",
+      "text": "Fidel Castro's Cuba, in retaliation for U.S. plots against Castro",
+      "notes": "Course Thesis 5 (the Roselli \"backfire\" theory)."
+    },
+    {
+      "id": "hb5",
+      "text": "The Soviet KGB",
+      "notes": "Course Thesis 9."
+    },
+    {
+      "id": "hb6",
+      "text": "U.S. military leaders (LeMay and the Joint Chiefs)",
+      "notes": "Course Thesis 8 (\"Seven Days in May\")."
+    },
+    {
+      "id": "hb7",
+      "text": "A coalition of establishment, intelligence, military and organized-crime figures acting together (\"Rulers of the Realm\")",
+      "notes": "Course Thesis 10 (Sheehan & Billings). The syllabus doesn't spell this thesis out; this wording is inferred from the course's Polinode network (\"ROTR Test 4\"). Correct it from class notes."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "b01",
+      "text": "Oswald was a self-professed Marxist who defected to the USSR in 1959 and returned in 1962; documents and testimony show a troubled history, contempt for the U.S. system, violence toward his wife, and an attempt to shoot Gen. Walker.",
+      "source": "Reitzes pp. 6–7, 12; WR",
+      "type": "Report",
+      "date": "1959–1963",
+      "credibility": "H",
+      "relevance": "H",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b02",
+      "text": "Despite decades of scrutiny, no money, payments or handlers tying Oswald to any group have been documented; researcher Harold Weisberg said he \"never had an extra penny.\"",
+      "source": "Reitzes p. 8",
+      "type": "Absence of evidence",
+      "date": "",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b03",
+      "text": "Oswald's New Orleans Fair Play for Cuba Committee chapter was a one-man operation using documents he made himself; other leftists kept their distance from him.",
+      "source": "Reitzes p. 7",
+      "type": "Fact",
+      "date": "1963-08",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b04",
+      "text": "Some of Oswald's pro-Castro leaflets were stamped 544 Camp Street, the building that housed former FBI agent Guy Banister's office, a hub of anti-Castro activity.",
+      "source": "Syllabus p. 54; Sheehan Chron. p. 17",
+      "type": "Fact",
+      "date": "1963-08",
+      "credibility": "H",
+      "relevance": "H",
+      "notes": "Whether Oswald actually worked out of that building is disputed.",
+      "excluded": false
+    },
+    {
+      "id": "b05",
+      "text": "The HSCA concluded Oswald was likely seen with David Ferrie, and probably Guy Banister, in Clinton, Louisiana, in late summer 1963.",
+      "source": "Syllabus p. 58; HSCA",
+      "type": "Report",
+      "date": "1963-08",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "Ferrie and Banister were anti-Castro activists; Ferrie also worked for Carlos Marcello's lawyer.",
+      "excluded": false
+    },
+    {
+      "id": "b06",
+      "text": "Silvia Odio reported that in late September 1963 three men, one introduced as \"Leon Oswald,\" an ex-Marine, visited her seeking help for anti-Castro activities; the HSCA found her account credible.",
+      "source": "Sheehan Chron. pp. 23, 34; HSCA",
+      "type": "Report",
+      "date": "1963-09",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "The Warren Commission doubted the timing because Oswald was believed to be traveling to Mexico.",
+      "excluded": false
+    },
+    {
+      "id": "b07",
+      "text": "CIA records show Oswald (or someone using his name) contacted Soviet vice consul Valery Kostikov in Mexico City; Kostikov was suspected of belonging to the KGB department responsible for sabotage and assassination.",
+      "source": "Syllabus pp. 62–63",
+      "type": "Report",
+      "date": "1963-09-28",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b08",
+      "text": "There are unresolved questions about the Mexico City visit: whether recorded calls were really Oswald, and why CIA reporting at the time omitted details (the HSCA's Lopez Report).",
+      "source": "Syllabus pp. 12, 62–63",
+      "type": "Report",
+      "date": "1963-10",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b09",
+      "text": "CIA headquarters' October 1963 response about Oswald omitted recent information it had on file (his New Orleans activities); a signer later told researcher John Newman she was signing off on something she knew was not accurate.",
+      "source": "Syllabus p. 62 n. 112",
+      "type": "Report",
+      "date": "1963-10-10",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b10",
+      "text": "The Cuban consulate refused Oswald a visa, and a staffer told him someone like him could only harm the revolution.",
+      "source": "Reitzes p. 7",
+      "type": "Report",
+      "date": "1963-09-27",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b11",
+      "text": "On September 7, 1963, Castro publicly warned that U.S. leaders aiding plans to eliminate Cuban leaders would themselves not be safe.",
+      "source": "AP interview (Daniel Harker); HSCA",
+      "type": "Fact",
+      "date": "1963-09-07",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b12",
+      "text": "The CIA plotted with Mafia figures Johnny Roselli, Sam Giancana and Santo Trafficante to assassinate Castro (1960–63), as part of a wider covert war against Cuba (Operation Mongoose).",
+      "source": "Church 1975; Syllabus pp. 39, 42, 47",
+      "type": "Fact",
+      "date": "1960–1963",
+      "credibility": "H",
+      "relevance": "H",
+      "notes": "Gives several groups both motive and capability; also gives Castro a motive.",
+      "excluded": false
+    },
+    {
+      "id": "b13",
+      "text": "On the day of the assassination, a CIA officer met Cuban official Rolando Cubela (AMLASH) and offered him a poison device for use against Castro.",
+      "source": "Church 1976 (Book V)",
+      "type": "Fact",
+      "date": "1963-11-22",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b14",
+      "text": "The CIA and FBI did not tell the Warren Commission about the plots against Castro; the Church Committee found both agencies' investigations deficient.",
+      "source": "Syllabus p. 12; Church 1976",
+      "type": "Report",
+      "date": "1976",
+      "credibility": "H",
+      "relevance": "H",
+      "notes": "Withholding can protect operations or hide involvement; the inference is the analyst's.",
+      "excluded": false
+    },
+    {
+      "id": "b15",
+      "text": "The HSCA concluded the Soviet and Cuban governments, organized crime as a group, and anti-Castro groups as groups were not involved, but could not rule out individual members.",
+      "source": "Syllabus p. 13; HSCA",
+      "type": "Report",
+      "date": "1979",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b16",
+      "text": "Carlos Marcello allegedly threatened the President in 1962 (the Ed Becker account); the HSCA found Marcello had motive, means and opportunity but no direct evidence of involvement.",
+      "source": "HSCA; Syllabus p. 89 (Davis, Mafia Kingfish)",
+      "type": "Report",
+      "date": "1962",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "Becker's account is single-sourced and was told years later.",
+      "excluded": false
+    },
+    {
+      "id": "b17",
+      "text": "Santo Trafficante allegedly said in 1962 that Kennedy was \"going to be hit\" (the Jose Aleman account); Aleman qualified his account before the HSCA.",
+      "source": "HSCA",
+      "type": "Report",
+      "date": "1962",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b18",
+      "text": "Jack Ruby made phone calls to mob-connected figures in the months before the assassination; testimony links many of them to his dispute with the corruption-ridden variety artists' union (AGVA).",
+      "source": "Reitzes p. 10",
+      "type": "Report",
+      "date": "1963",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b19",
+      "text": "People who knew Ruby, including Dallas police intelligence and his prosecutor, described a volatile, talkative police groupie, not a mob operative; evidence at his trial showed organic brain damage.",
+      "source": "Reitzes pp. 9–10",
+      "type": "Report",
+      "date": "1964",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b20",
+      "text": "Ruby shot Oswald in the Dallas police basement on November 24 during a transfer, ending any chance of a trial; how he got into the basement is disputed.",
+      "source": "Ext. Chron. p. 20; WR; HSCA",
+      "type": "Fact",
+      "date": "1963-11-24",
+      "credibility": "H",
+      "relevance": "H",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b21",
+      "text": "In June 1964 Ruby begged Earl Warren to take him to Washington so he could tell the truth; Warren declined.",
+      "source": "Syllabus p. 70",
+      "type": "Report",
+      "date": "1964-06-07",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "Ruby's mental state by then is part of the question.",
+      "excluded": false
+    },
+    {
+      "id": "b22",
+      "text": "Rose Cheramie, a drug-addicted woman injured on a Louisiana highway, told a state police lieutenant on November 20 that two men she traveled with planned to kill Kennedy in Dallas.",
+      "source": "Syllabus p. 66",
+      "type": "Report",
+      "date": "1963-11-20",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "Single account through the officer, never independently corroborated.",
+      "excluded": false
+    },
+    {
+      "id": "b23",
+      "text": "Secret Service agent Abraham Bolden says a plot to shoot the President in Chicago in early November 1963 was reported and handled without written records.",
+      "source": "Ext. Chron. p. 1; Syllabus p. 89 (Bolden)",
+      "type": "Report",
+      "date": "1963-11-01",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "No records of the plot exist.",
+      "excluded": false
+    },
+    {
+      "id": "b24",
+      "text": "Oswald left a note for FBI agent James Hosty at the Dallas office weeks before the assassination; after the assassination it was destroyed on the special agent in charge's order, a fact not revealed until 1975.",
+      "source": "Ext. Chron. p. 14",
+      "type": "Fact",
+      "date": "1963-11",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "Hosty testified the note complained about visits to his wife; its true content can't be checked.",
+      "excluded": false
+    },
+    {
+      "id": "b25",
+      "text": "Allen Dulles, the CIA director Kennedy replaced after the Bay of Pigs, served on the Warren Commission; he was recommended by Robert Kennedy.",
+      "source": "Reitzes p. 8",
+      "type": "Report",
+      "date": "1963-11",
+      "credibility": "M",
+      "relevance": "L",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b26",
+      "text": "Kennedy's relationship with the CIA was repaired after the Bay of Pigs; weeks before his death he publicly defended the agency. The quote about splintering the CIA \"into a thousand pieces\" is anonymously sourced.",
+      "source": "Reitzes pp. 7–8",
+      "type": "Report",
+      "date": "1963",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b27",
+      "text": "NSAM 263 (October 11, 1963) approved withdrawing 1,000 U.S. advisers from Vietnam by the end of 1963, conditional on progress.",
+      "source": "Syllabus p. 62; Reitzes p. 8",
+      "type": "Fact",
+      "date": "1963-10-11",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "Read as a planned exit (Syllabus) or as leverage on Diem (Reitzes, quoting Karnow).",
+      "excluded": false
+    },
+    {
+      "id": "b28",
+      "text": "In public through November 22, 1963, Kennedy said the U.S. should stay in Vietnam; aides later recalled private talk of withdrawal (O'Donnell, Morse, Forrestal; \"Vietnam is not worth another American life\").",
+      "source": "Reitzes pp. 8–9; Syllabus p. 66",
+      "type": "Report",
+      "date": "1963",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "Recollections came years later and may be colored by politics (Reitzes p. 9).",
+      "excluded": false
+    },
+    {
+      "id": "b29",
+      "text": "In 1962 the Joint Chiefs proposed Operation Northwoods, staged incidents to justify war with Cuba; Kennedy's administration rejected it.",
+      "source": "Declassified by the Assassination Records Review Board (1997)",
+      "type": "Fact",
+      "date": "1962-03-13",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "Shows hostility and willingness at the top of the military, not involvement in 1963.",
+      "excluded": false
+    },
+    {
+      "id": "b30",
+      "text": "The claim that Gen. Curtis LeMay ordered the assassination or attended the autopsy is raised in the course but not documented in its materials.",
+      "source": "Syllabus p. 34 (Question 15)",
+      "type": "Report",
+      "date": "",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b31",
+      "text": "Jim Garrison prosecuted Clay Shaw for conspiracy; the jury acquitted him in March 1969.",
+      "source": "Syllabus pp. 10, 25, 72",
+      "type": "Fact",
+      "date": "1969-03-01",
+      "credibility": "H",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b32",
+      "text": "Clay Shaw had been a source for the CIA's Domestic Contact Service in the 1950s, something he denied at trial.",
+      "source": "HSCA; later released CIA records",
+      "type": "Report",
+      "date": "1950s",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "Domestic contacts were common among internationally active businessmen.",
+      "excluded": false
+    },
+    {
+      "id": "b33",
+      "text": "E. Howard Hunt, late in life, told his son of a CIA-linked plot (the \"Big Event\").",
+      "source": "Syllabus p. 5",
+      "type": "Report",
+      "date": "2007",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "Hunt gave differing accounts at different times.",
+      "excluded": false
+    },
+    {
+      "id": "b34",
+      "text": "Years later the KGB forged documents tying Oswald to the CIA as disinformation.",
+      "source": "Reitzes p. 7",
+      "type": "Report",
+      "date": "1970s",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b35",
+      "text": "Days before the assassination the Soviet embassy received a crude letter signed \"Lee H. Oswald\" that seemed to implicate the USSR; Soviet officials treated it as a forgery or provocation.",
+      "source": "Syllabus p. 13",
+      "type": "Report",
+      "date": "1963-11-18",
+      "credibility": "M",
+      "relevance": "M",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b36",
+      "text": "KGB defector Yuri Nosenko said the KGB took no interest in Oswald and judged him unstable; the CIA confined and questioned Nosenko for years before accepting him as genuine.",
+      "source": "Syllabus p. 70; Reitzes pp. 6–7",
+      "type": "Report",
+      "date": "1964-02-04",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b37",
+      "text": "After the assassination Soviet propaganda blamed a right-wing cabal; Jacqueline Kennedy lamented that her husband was killed by \"some silly little Communist.\"",
+      "source": "Reitzes pp. 6–7",
+      "type": "Report",
+      "date": "1963-11",
+      "credibility": "M",
+      "relevance": "L",
+      "notes": "",
+      "excluded": false
+    },
+    {
+      "id": "b38",
+      "text": "Thesis 10's network maps long-running ties among financiers, intelligence officers, military figures and organized-crime and exile operatives.",
+      "source": "Course Polinode network \"ROTR Test 4\"",
+      "type": "Argument",
+      "date": "",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "Connections show who knew whom, not who did what.",
+      "excluded": false
+    },
+    {
+      "id": "b39",
+      "text": "President Johnson pressed the Dallas police to end their investigation and leave it to the FBI.",
+      "source": "Syllabus p. 5",
+      "type": "Report",
+      "date": "1963-11",
+      "credibility": "L",
+      "relevance": "M",
+      "notes": "Single-sourced in a secondary primer; could reflect a wish to close down rumors of a foreign plot.",
+      "excluded": false
+    },
+    {
+      "id": "b40",
+      "text": "Record releases under the 1992 JFK Records Act and by the Review Board (1998) exposed agency secrecy and withheld information but no document showing who, if anyone, directed the assassination.",
+      "source": "Syllabus p. 14; ARRB Final Report (1998)",
+      "type": "Absence of evidence",
+      "date": "1998",
+      "credibility": "M",
+      "relevance": "H",
+      "notes": "Researchers disagree on what the later releases mean.",
+      "excluded": false
+    }
+  ],
+  "ratings": {},
+  "conclusion": "",
+  "milestones": []
+}
