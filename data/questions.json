@@ -1,0 +1,25 @@
+{
+  "intro": "The course's 20 Key Questions (syllabus pp. 6–8), lightly reworded. Each links to the ACH matrix that tests it and to terms to search in the timeline.",
+  "questions": [
+    { "n": 1, "q": "Did Lee Harvey Oswald shoot Kennedy?", "matrix": "a", "search": "Oswald" },
+    { "n": 2, "q": "Was there a shooter on the grassy knoll?", "matrix": "a", "search": "knoll" },
+    { "n": 3, "q": "Was the autopsy manipulated or falsified, and were the wounds altered?", "matrix": "a", "search": "autopsy" },
+    { "n": 4, "q": "Did Jack Ruby kill Oswald only because he was personally upset?", "matrix": "b", "search": "Ruby" },
+    { "n": 5, "q": "Were any of these other figures in Dealey Plaza during the shooting?", "people": ["E. Howard Hunt", "Frank Sturgis (Frank Fiorini)", "Charles V. Harrelson", "David Sánchez Morales", "Rafael \"Chi Chi\" Quintero", "Edward Lansdale", "William \"Rip\" Robertson", "Grayston Lynch", "James Braden", "Rolando Martínez", "Raúl, Jorge and Rafael Villaverde", "Félix Rodríguez (\"Max Gómez\")", "Felipe Vidal", "Ricardo Chávez", "Reno Corvo", "Luis Posada Carriles (\"Ramón Medina\")", "Jorge González", "Joaquín Sanjenís", "Álvaro Cruz", "Federico Saenz"], "matrix": "b", "search": "Dealey Plaza" },
+    { "n": 6, "q": "Was Oswald a numbered FBI informant or an intelligence operative? Did he help Guy Banister with the Lake Pontchartrain training camp? Were there Oswald doubles in Mexico City and at the rifle range? Was his palm print planted on the rifle, and was the backyard photo faked?", "matrix": "a", "search": "Banister" },
+    { "n": 7, "q": "Were Kennedy and Governor Connally hit by a single bullet?", "matrix": "a", "search": "bullet" },
+    { "n": 8, "q": "Who were the \"three tramps\" taken from a boxcar in the rail yard?", "matrix": "a", "search": "tramp" },
+    { "n": 9, "q": "What is Edward Lansdale's connection to the \"Black Eagle Trust,\" Executive Order 11111 and Kennedy? (The syllabus cites 11111; theories about Kennedy and the Federal Reserve usually cite 11110.)", "matrix": "b", "search": "Lansdale" },
+    { "n": 10, "q": "Is the man tipping his hat to Kennedy just before the shots Rip Robertson, and where did those photos come from?", "matrix": "b", "search": "Robertson" },
+    { "n": 11, "q": "Was the Zapruder film altered, beyond Life magazine's reversal of some frames?", "matrix": "a", "search": "Zapruder" },
+    { "n": 12, "q": "What role, if any, did William D. Pawley play in planning or authorizing the assassination?", "matrix": "b", "search": "Pawley" },
+    { "n": 13, "q": "Who was Boris Pash, and why was he with Johnson leaving Parkland Hospital?", "matrix": "b", "search": "Pash" },
+    { "n": 14, "q": "What were the strengths and weaknesses of Jim Garrison's case against Clay Shaw and others?", "matrix": "b", "search": "Garrison" },
+    { "n": 15, "q": "What is the evidence that General Curtis LeMay ordered the assassination and was present at the autopsy?", "matrix": "b", "search": "LeMay" },
+    { "n": 16, "q": "Did Robert Kennedy believe his brother was killed by a conspiracy, and what did he plan to do about it?", "matrix": "b", "search": "Robert Kennedy" },
+    { "n": 17, "q": "Are there credible theories beyond the course's ten? How credible are they?", "matrix": "b", "link": "theories" },
+    { "n": 18, "q": "What did witnesses left out of the official reports say? Who were they and how many?", "matrix": "a", "search": "witness" },
+    { "n": 19, "q": "What did important people privately believe: Johnson, Helms and the CIA, Hoover, Nixon, George H.W. Bush, Ben Bradlee of the Washington Post, the New York Times, Dan Rather and others?", "matrix": "b", "search": "Hoover" },
+    { "n": 20, "q": "What technologies, available now or later, could settle key questions (infrared analysis of the films, new acoustics work, voice-stress analysis of witnesses), and what other steps could answer them?", "matrix": "a" }
+  ]
+}

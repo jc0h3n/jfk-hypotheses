@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JFK: Case Library</title>
+<meta name="description" content="The facts behind the JFK competing-hypotheses analysis: a searchable timeline from 1947 to 1988, the course's ten theses and a 60-theory primer, the cast of characters, the 20 key questions, readings, CIA cryptonyms and a book list. Summaries in our own words with page citations.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1><a class="home" href="./">JFK: Competing Hypotheses</a></h1>
+      <p class="tagline">Case library: the timeline, theories, people and sources behind the analysis · by jc0h3n</p>
+    </div>
+    <nav aria-label="Site"><a href="./">Analyses</a> / <a href="./#guide">Guide</a> / <span class="on">Library</span></nav>
+  </header>
+
+  <nav class="tabs" id="tabs" aria-label="Library sections"></nav>
+  <p class="status" id="status" role="status" aria-live="polite">Loading…</p>
+
+  <main>
+    <section id="sec-timeline" class="lib" hidden>
+      <p class="lede col">What happened, in order: the course's Selected Chronology from the CIA's founding in 1947 to 1988, with the weeks around November 22, 1963 to follow from the Extended Chronology. Each entry is our summary of the course document and cites its page. Where an entry reports a disputed claim, it is marked as the chronology's claim.</p>
+      <div class="filters">
+        <label class="sr" for="t-q">Search the timeline</label>
+        <input id="t-q" type="search" placeholder="Search: a name, place or word (e.g. Veciana, Mexico City)">
+        <label class="sr" for="t-period">Period</label>
+        <select id="t-period"></select>
+        <label class="sr" for="t-src">Chronology</label>
+        <select id="t-src"><option value="">Both chronologies</option><option value="S">Selected Chronology</option><option value="X">Extended Chronology</option></select>
+      </div>
+      <p class="chips" id="t-people" aria-label="People"></p>
+      <p class="muted small" id="t-count"></p>
+      <ol class="timeline" id="t-list"></ol>
+      <p><button class="btn" id="t-more" hidden>Show more</button></p>
+    </section>
+
+    <section id="sec-theories" class="lib" hidden>
+      <div class="col" id="th-intro"></div>
+      <h2>The ten course theses</h2>
+      <ol class="cards" id="th-theses"></ol>
+      <h2>Primer: sixty theories</h2>
+      <div class="filters"><label class="sr" for="th-q">Search the primer</label><input id="th-q" type="search" placeholder="Search the primer (e.g. knoll, Zapruder, Lane)">
+        <label class="sr" for="th-h">Bears on</label><select id="th-h"><option value="">Bearing on any hypothesis</option></select></div>
+      <p class="muted small" id="th-count"></p>
+      <ol class="cards" id="th-primer"></ol>
+    </section>
+
+    <section id="sec-people" class="lib" hidden>
+      <div class="col" id="p-intro"></div>
+      <div class="filters"><label class="sr" for="p-q">Search people</label><input id="p-q" type="search" placeholder="Search people"></div>
+      <div id="p-list"></div>
+    </section>
+
+    <section id="sec-questions" class="lib" hidden>
+      <div class="col" id="q-intro"></div>
+      <ol class="questions col" id="q-list"></ol>
+    </section>
+
+    <section id="sec-readings" class="lib" hidden>
+      <div class="col" id="r-intro"></div>
+      <div id="r-list"></div>
+    </section>
+
+    <section id="sec-glossary" class="lib" hidden>
+      <div class="col" id="g-intro"></div>
+      <div class="filters"><label class="sr" for="g-q">Search cryptonyms</label><input id="g-q" type="search" placeholder="Search cryptonyms and names"></div>
+      <h2>Cryptonyms</h2>
+      <table class="gloss"><thead><tr><th scope="col">Code</th><th scope="col">Meaning</th></tr></thead><tbody id="g-codes"></tbody></table>
+      <h2>Aliases</h2>
+      <table class="gloss"><thead><tr><th scope="col">Name</th><th scope="col">Alias</th></tr></thead><tbody id="g-aliases"></tbody></table>
+      <h2>The paper trail on Oswald, October–December 1963</h2>
+      <div class="col" id="g-docs-intro"></div>
+      <table class="gloss"><thead><tr><th scope="col">Date</th><th scope="col">From → to</th><th scope="col">What it says</th></tr></thead><tbody id="g-docs"></tbody></table>
+    </section>
+
+    <section id="sec-books" class="lib" hidden>
+      <div class="col" id="b-intro"></div>
+      <div class="filters"><label class="sr" for="b-q">Search books</label><input id="b-q" type="search" placeholder="Search books by author, title or year"></div>
+      <p class="muted small" id="b-count"></p>
+      <ul class="books" id="b-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site">Summaries by jc0h3n of course materials (Cowell 103, <i>The Alternative Theories of the Assassination of President John F. Kennedy</i>) and the assigned readings; the originals belong to their authors. Page numbers refer to the course PDFs. The site loads no fonts, analytics or third-party scripts. <a href="https://github.com/jc0h3n/jfk-hypotheses">Source and data</a></footer>
+</div>
+<script type="module" src="js/library.js"></script>
+</body>
+</html>

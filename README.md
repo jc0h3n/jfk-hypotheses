@@ -13,6 +13,20 @@ Each piece of evidence cites its source: the official record (Warren Commission,
 
 ACH, developed by Richards J. Heuer Jr. at the CIA, counters confirmation bias: instead of collecting support for a favorite explanation, it rates every piece of evidence against every hypothesis and favors the one with the least evidence *against* it.
 
+## Case library
+
+[`library.html`](https://jc0h3n.github.io/jfk-hypotheses/library.html) holds the facts behind the analysis, searchable and cross-linked:
+
+- **Timeline**: the course's Selected Chronology, 1947–1988 (285 entries), with the Extended Chronology of the weeks around November 22, 1963 being added
+- **Theories**: the ten course theses and a sixty-theory primer, each linked to the hypotheses it bears on
+- **People**: the 39-person cast of characters
+- **20 Key Questions**, linked to the timeline and the matrices
+- **Readings**: Reitzes on conspiracy theories at 50; Twining on evidence; Orji on research method
+- **Cryptonyms & documents**: CIA code names and aliases, and the FBI/CIA paper trail on Oswald in late 1963
+- **Books**: two book lists from the syllabus
+
+Everything there is a summary in our own words with page citations to the course documents; where an entry reports a disputed claim, it says whose claim it is. The data is plain JSON in `data/`.
+
 ## How the site works
 
 It's a copy of [Open ACH](https://github.com/jc0h3n/open-ach) that loads the analyses in `analyses/` (listed in `analyses/manifest.json`). Visitors can change ratings and add evidence to try their own judgments; changes stay in their browser. When a new version is published, visitors get it, and any changes they had made are kept as a separate copy.

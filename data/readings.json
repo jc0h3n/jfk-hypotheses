@@ -1,0 +1,67 @@
+{
+  "intro": "Three readings were assigned with the course materials: one skeptic's case against the conspiracy theories, and two on method. Summaries are ours; read the originals for the arguments in full.",
+  "readings": [
+    {
+      "id": "reitzes",
+      "title": "The JFK Assassination: Conspiracy Theories at 50",
+      "author": "Dave Reitzes",
+      "pub": "Skeptic, vol. 18, no. 3 (2013)",
+      "kind": "The case against",
+      "summary": "A skeptic's review, written for the 50th anniversary, of why conspiracy belief took hold and why the author thinks the evidence still points to Oswald alone.",
+      "points": [
+        "Origins. Ruby's killing of Oswald, the credibility gap of the Johnson years, Vietnam and Watergate made a conspiracy feel right; Jefferson Morley calls the case a national Rorschach test of attitudes toward government.",
+        "Earwitnesses. Of the dozens who described the shots' sound, very few said they came from more than one direction, but those few became the critics' star witnesses.",
+        "Parkland doctors. Their first impressions of a frontal entry are explained as the product of emergency conditions; they never turned the President over, and the autopsy photos and X-rays show entry from behind.",
+        "Photographic \"gunmen.\" Figures on the knoll in the Moorman photo (including David Lifton's early find) and the \"Umbrella Man\" proved to be artifacts or innocent: Louie Steven Witt testified in 1978 that his umbrella was a political protest.",
+        "Mysterious deaths. Lists of supposedly suspicious deaths are mostly people who weren't witnesses, and few of the deaths were mysterious; no actuarial basis supports the claim.",
+        "Head snap. Forensic pathologists (Vincent Di Maio; even Cyril Wecht in another case) reject the idea that a bullet must push the head in its own direction; the backward movement is attributed to a neuromuscular reaction.",
+        "Disinformation and predisposition. Soviet outlets blamed a right-wing cabal within hours, and the KGB later forged documents tying Oswald to the CIA; some early critics were suspicious before seeing any evidence.",
+        "The CIA and Dulles. Johnson appointed Allen Dulles to the Warren Commission at Robert Kennedy's request, and the Kennedys continued to praise him after the Bay of Pigs.",
+        "Vietnam. Reports that Kennedy planned to withdraw are recollections that may be colored by later politics; the announced 1,000-man reduction was small.",
+        "Ruby. People who knew him called him a talker who couldn't keep a secret and an emotional man with a temper, the opposite of a mob hit man.",
+        "The physical case. Three shells and the Carcano on the sixth floor; ballistics match the shells, the nearly whole bullet and the large fragments to that rifle to the exclusion of all others; Oswald bought it by mail under an alias, and his palm print was on it.",
+        "Single bullet. Not invented to fit the Zapruder timing: pathologist James Humes first raised it after finding the neck bullet struck no bone.",
+        "Motive. A radical, unstable Castro admirer who had already shot at General Walker kills the man Castro called his enemy at a time when U.S. covert action against Castro was real.",
+        "Why it matters. Drawing on David Aaronovitch and research on conspiracy thinking, conspiracism correlates with rejecting science, with harmful results (for example on vaccines)."
+      ],
+      "bears_on": ["ha1", "hb1"],
+      "evidence": "Many items in both matrices cite it, usually as the counterweight to the advocacy chronologies."
+    },
+    {
+      "id": "twining",
+      "title": "Evidence as a Multi-Disciplinary Subject",
+      "author": "William Twining",
+      "pub": "Law, Probability and Risk 2 (2003): 91–107",
+      "kind": "Method: evidence and inference",
+      "summary": "A legal theorist argues that evidence should be studied across disciplines (law, forensic science, intelligence analysis, medicine, history) and that what unifies it is inferential reasoning.",
+      "points": [
+        "Evidence is a subject in its own right, not just the rules of admissibility; the \"law of evidence\" is a small, exclusionary part of reasoning about facts.",
+        "Following David Schum, he favors a \"substance-blind\" approach: the logic of inference is the same whatever the field.",
+        "Post-9/11 reviews of U.S. intelligence used the language of evidence scholars: the danger of hypothesis-driven inquiry, the difference between building a hypothesis and testing it, too much information versus absence of evidence, ambiguity versus incompleteness, the value of alternative readings, mirror-imaging, and confusing the unfamiliar with the improbable.",
+        "In the Wigmorean tradition, arguments run from evidence to conclusion through background generalizations (\"common sense\"), and those generalizations are the weak link: our stock of knowledge is a soup of fact, myth, stereotype and speculation, not tested propositions.",
+        "Detectives, historians and intelligence analysts, unlike judges deciding a decided case, must both construct and test hypotheses, which calls for abduction and imagination.",
+        "Contested trials and causes célèbres such as Sacco and Vanzetti are where inference is hardest, because the facts themselves are in dispute."
+      ],
+      "bears_on": [],
+      "evidence": "Why this site uses ACH: it separates generating hypotheses from testing them and makes the generalizations behind each rating visible."
+    },
+    {
+      "id": "orji",
+      "title": "The Study of Politics: Logic, Approaches and Methods",
+      "author": "Nkwachukwu Orji",
+      "pub": "In E. Nweke and N. Orji (eds.), A Handbook of Political Science (Ebonyi State University, 2009), ch. 2",
+      "kind": "Method: research design",
+      "summary": "An introductory overview of how political scientists justify knowledge (logic), choose what to study (approaches) and gather and analyze data (methods).",
+      "points": [
+        "Logic: research paradigms (positivist, modeled on the natural sciences and aiming at testable causal claims; interpretivist, aiming at the meanings actors give their world) and research strategies: inductive (observe first, then generalize, seeking confirmation) and deductive (after Popper: state a hypothesis, derive what should follow, and try to falsify it; a theory that survives is only corroborated).",
+        "Positivism, from Comte, looks for correlations and causes but warns that correlation alone does not prove causation.",
+        "Approaches: normative, institutional (old and \"new\" institutionalism, formal and informal rules of the game), behavioral, rational choice, and others such as Marxist, feminist and constructivist.",
+        "Methods of inquiry: experiment is rare in politics, so most work is observational: case studies, comparative analysis and statistical analysis.",
+        "Case studies can create and test theories, identify and test antecedent conditions and explain important events, but critics say they can't control for intervening variables or generalize well.",
+        "Data come from interviews, questionnaires, observation and documents, analyzed qualitatively or quantitatively."
+      ],
+      "bears_on": [],
+      "evidence": "The assassination is a single, contested case: a case study whose evidence is mostly documents and testimony, which is why source credibility is rated for every item here."
+    }
+  ]
+}

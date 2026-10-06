@@ -71,7 +71,7 @@ function setView(v) {
 }
 function renderNav() {
   const items = [["analyses", "Analyses"], ...(A ? [["matrix", "Matrix"], ["report", "Report"]] : []), ["guide", "Guide"]];
-  $("nav").innerHTML = items.map(([k, l]) => `<button class="link${view === k ? " on" : ""}" data-view="${k}">${l}</button>`).join(" / ");
+  $("nav").innerHTML = items.map(([k, l]) => `<button class="link${view === k ? " on" : ""}" data-view="${k}">${l}</button>`).join(" / ") + ` / <a href="library.html">Library</a>`;
 }
 
 // ---- Analyses list ----------------------------------------------------------------------------
