@@ -200,3 +200,9 @@ mark { background: var(--mark); color: var(--mark-ink); padding: 0 1px; }
   .timeline li { grid-template-columns: 1fr; }
   .gloss .code { white-space: normal; word-break: break-all; }
 }
+
+/* Selected Chronology footnotes under a timeline entry */
+details.notes { margin-top: 6px; font-size: 0.88em; }
+details.notes summary { cursor: pointer; color: var(--muted, #6b6b6b); }
+details.notes ol { margin: 6px 0 0; padding-left: 2.2em; }
+details.notes li { margin-bottom: 6px; }

@@ -77,21 +77,30 @@ function renderTimeline() {
   $("t-more").addEventListener("click", () => { tShown += PAGE * 2; drawTimeline(); });
   drawTimeline();
 }
+// The Selected Chronology's footnotes are shown once per page, under the first Selected entry from that page.
+let noteOwner;
+const notesFor = e => {
+  const N = D.timeline.notes || {};
+  if (!noteOwner) { noteOwner = {}; for (const x of D.timeline.entries) if (x[5] === "S" && N[x[3]] && !noteOwner[x[3]]) noteOwner[x[3]] = x[0]; }
+  return e[5] === "S" && noteOwner[e[3]] === e[0] ? N[e[3]] : null;
+};
+
 function drawTimeline() {
   const ts = terms($("t-q").value), per = $("t-period").value, src = $("t-src").value;
   const inPeriod = d => !per || (per.length === 7 ? d.startsWith(per) : d.slice(0, 4) >= per.slice(0, 4) && d.slice(0, 4) <= per.slice(5));
   const byId = /^[cx]\d{3,4}$/.test($("t-q").value.trim()) ? $("t-q").value.trim() : "";   // a permalink
   const list = byId ? D.timeline.entries.filter(e => e[0] === byId)
-    : D.timeline.entries.filter(e => inPeriod(e[1]) && (!src || e[5] === src) && matches(e[4] + " " + e[6], ts));
+    : D.timeline.entries.filter(e => inPeriod(e[1]) && (!src || e[5] === src) && matches(e[4] + " " + e[6] + " " + (notesFor(e) || []).map(n => n[1]).join(" "), ts));
   for (const b of $("t-people").querySelectorAll("[data-q]")) b.classList.toggle("on", norm($("t-q").value) === norm(b.dataset.q));
   const S = D.timeline.sources;
-  $("t-count").textContent = `${list.length} ${list.length === 1 ? "entry" : "entries"}` + (D.timeline.entries.some(e => e[5] === "X") ? "" : " · Extended Chronology (minute-by-minute, Nov. 1963) coming next");
+  $("t-count").textContent = `${list.length} ${list.length === 1 ? "entry" : "entries"}`;
   let lastYear = "";
-  $("t-list").innerHTML = list.slice(0, tShown).map(([id, date, time, page, text, s, tag]) => {
+  $("t-list").innerHTML = list.slice(0, tShown).map(e => {
+    const [id, date, time, page, text, s, tag] = e, notes = notesFor(e);
     const y = date.slice(0, 4), head = y !== lastYear ? `<li class="year" aria-hidden="true">${y}</li>` : "";
     lastYear = y;
     return head + `<li id="${id}"><div class="when">${fmtDate(date)}${time ? `<br><span class="muted">${esc(time)}</span>` : ""}</div>
-      <div class="what">${mark(esc(text), ts)}<div class="cite">${esc(S[s].name)}, p. ${page}${tag ? ` · source tag ${esc(tag)}` : ""} · <a href="#timeline" data-copy="${id}" title="Link to this entry">#</a></div></div></li>`;
+      <div class="what">${mark(esc(text), ts)}<div class="cite">${esc(S[s].name)}, p. ${page}${tag ? ` · source tag ${esc(tag)}` : ""} · <a href="#timeline" data-copy="${id}" title="Link to this entry">#</a></div>${notes ? `<details class="notes"><summary>Notes from p. ${page} (${notes.length})</summary><ol>${notes.map(([n, t]) => `<li value="${n}">${mark(esc(t), ts)}</li>`).join("")}</ol></details>` : ""}</div></li>`;
   }).join("");
   $("t-more").hidden = list.length <= tShown;
   $("t-more").textContent = `Show more (${list.length - tShown} left)`;

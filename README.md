@@ -17,7 +17,7 @@ ACH, developed by Richards J. Heuer Jr. at the CIA, counters confirmation bias: 
 
 [`library.html`](https://jc0h3n.github.io/jfk-hypotheses/library.html) holds the facts behind the analysis, searchable and cross-linked:
 
-- **Timeline**: the course's Selected Chronology, 1947–1988 (285 entries), with the Extended Chronology of the weeks around November 22, 1963 being added
+- **Timeline**: the course's Selected Chronology, 1947–1988 (285 entries, with its 39 background notes on people and operations), and the Extended Chronology from November 1963 to January 1964 (1,577 entries)
 - **Theories**: the ten course theses and a sixty-theory primer, each linked to the hypotheses it bears on
 - **People**: the 39-person cast of characters
 - **20 Key Questions**, linked to the timeline and the matrices
