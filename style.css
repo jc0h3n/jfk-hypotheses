@@ -78,6 +78,7 @@ textarea { resize: vertical; width: 100%; line-height: 1.4; }
 .checks summary { cursor: pointer; font-weight: 600; }
 .checks ol { margin: 8px 0 2px; padding-left: 0; list-style: none; display: grid; gap: 6px; }
 .checks li { font-size: 0.92em; display: flex; gap: 10px; }
+.checks li.done { color: var(--muted); }
 .checks .stepno { flex: none; font-size: 0.8em; font-weight: 700; color: var(--muted); min-width: 52px; padding-top: 2px; }
 
 .workspace { display: grid; grid-template-columns: minmax(0, 1fr) 270px; gap: 24px; align-items: start; }
@@ -91,10 +92,12 @@ textarea { field-sizing: content; }
 .legend span { display: inline-flex; align-items: center; gap: 4px; }
 .legend i { width: 18px; height: 14px; border-radius: 3px; border: 1px solid var(--line); display: inline-block; }
 
-.matrix-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; }
+.matrix-wrap { overflow: auto; max-height: calc(100vh - 90px); border: 1px solid var(--line); border-radius: 8px; }  /* scrolls both ways so the hypothesis row stays pinned */
 table.matrix { border-collapse: separate; border-spacing: 0; width: 100%; font-size: 0.9em; }
 .matrix th, .matrix td { border-bottom: 1px solid var(--line); padding: 6px; vertical-align: top; text-align: left; }
-.matrix thead th { background: var(--panel); position: sticky; top: 0; z-index: 1; font-weight: 600; }
+.matrix thead th { background: var(--panel); position: sticky; top: 0; z-index: 2; font-weight: 600; box-shadow: 0 1px 0 var(--line); }
+.matrix th.hyp textarea { max-height: 6.5em; overflow-y: auto; }
+.matrix tfoot td, .matrix tfoot th { position: sticky; bottom: 0; z-index: 1; }
 .matrix .ev { min-width: 220px; width: 30%; }
 .matrix .ev textarea { border-color: transparent; background: transparent; padding: 2px 4px; min-height: 2.4em; }
 .matrix .ev textarea:hover, .matrix .ev textarea:focus { border-color: var(--field-line); background: var(--field); }

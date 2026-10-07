@@ -84,23 +84,33 @@ export function sensitivity(a) {
   return { base, critical, margin };
 }
 
-// Checks that map to Heuer's steps; shown as prompts, never as blockers
+// Heuer's eight steps, always all listed in order: each is done or not, with a prompt for what's left.
+// Shown as guidance, never as blockers.
 export function checks(a) {
-  const out = [];
   const H = a.hypotheses.length, E = a.evidence.filter(e => !e.excluded).length;
-  if (H < 2) out.push({ step: 1, text: "Add at least two hypotheses. ACH works by comparing them, so include ones you think are unlikely." });
-  if (E < 3) out.push({ step: 2, text: "List more evidence, including assumptions and things you'd expect to see but don't." });
   const unrated = a.evidence.filter(e => !e.excluded).reduce((n, e) => n + a.hypotheses.filter(h => !ratingOf(a, e, h)).length, 0);
-  if (H && E && unrated) out.push({ step: 3, text: `${unrated} cell${unrated === 1 ? " is" : "s are"} not rated yet. Work across each row, rating one item against every hypothesis.` });
   const nondiag = a.evidence.filter(e => !e.excluded && diagnosticity(a, e).level === "none");
-  if (nondiag.length) out.push({ step: 4, text: `${nondiag.length} item${nondiag.length === 1 ? " doesn't" : "s don't"} help tell the hypotheses apart. Consider setting ${nondiag.length === 1 ? "it" : "them"} aside.` });
-  if (H >= 2 && E >= 3 && !unrated) {
-    const { critical } = sensitivity(a);
-    if (critical.length) out.push({ step: 6, text: `Your leading hypothesis depends on ${critical.length} item${critical.length === 1 ? "" : "s"} of evidence. Check ${critical.length === 1 ? "its" : "their"} sources and whether ${critical.length === 1 ? "it" : "they"} could be wrong or deceptive.` });
-  }
-  if (H >= 2 && E >= 3 && !a.conclusion.trim()) out.push({ step: 7, text: "Write a conclusion that addresses every hypothesis, not just the leader." });
-  if (H >= 2 && !a.milestones.length) out.push({ step: 8, text: "Add milestones: future events that would show your conclusion is wrong." });
-  return out;
+  const rated = H >= 2 && E >= 3 && !unrated;
+  const critical = rated ? sensitivity(a).critical : [];
+  const s = (n, k) => `${n} ${k}${n === 1 ? "" : "s"}`;
+  return [
+    { step: 1, title: "Identify the hypotheses", done: H >= 2,
+      text: "Add at least two hypotheses. ACH works by comparing them, so include ones you think are unlikely." },
+    { step: 2, title: "List the evidence", done: E >= 3,
+      text: "List more evidence, including assumptions and things you'd expect to see but don't." },
+    { step: 3, title: "Rate each item against every hypothesis", done: H > 0 && E > 0 && !unrated,
+      text: `${s(unrated, "cell")} not rated yet. Work across each row, rating one item against every hypothesis.` },
+    { step: 4, title: "Refine the matrix", done: rated && !nondiag.length,
+      text: nondiag.length ? `${s(nondiag.length, "item")} ${nondiag.length === 1 ? "doesn't" : "don't"} help tell the hypotheses apart. Consider setting ${nondiag.length === 1 ? "it" : "them"} aside.` : "Once everything is rated, set aside items that don't distinguish between hypotheses." },
+    { step: 5, title: "Draw tentative conclusions", done: rated,
+      text: "Look at which hypothesis has the least evidence against it (the totals under the matrix), not the most for it." },
+    { step: 6, title: "Test how sensitive the result is", done: rated && !critical.length,
+      text: critical.length ? `Your leading hypothesis depends on ${s(critical.length, "item")} of evidence. Check ${critical.length === 1 ? "its" : "their"} sources and whether ${critical.length === 1 ? "it" : "they"} could be wrong or deceptive.` : "Once everything is rated, check which few items the result turns on." },
+    { step: 7, title: "Report the conclusion", done: !!a.conclusion.trim(),
+      text: "Write a conclusion that addresses every hypothesis, not just the leader." },
+    { step: 8, title: "Set milestones", done: a.milestones.length > 0,
+      text: "Add milestones: future events that would show your conclusion is wrong." },
+  ];
 }
 
 // Accepts files from this app; tolerates missing fields

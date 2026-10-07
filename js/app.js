@@ -157,8 +157,9 @@ function renderResults() {
 
 function renderChecks() {
   const list = checks(A);
-  $("checks").hidden = !list.length;
-  $("checks-list").innerHTML = list.map(c => `<li><span class="stepno">Step ${c.step}</span><span>${esc(c.text)}</span></li>`).join("");
+  const left = list.filter(c => !c.done).length;
+  $("checks").querySelector("summary").textContent = left ? `Next steps (${8 - left} of 8 done)` : "All eight steps done";
+  $("checks-list").innerHTML = list.map(c => `<li class="${c.done ? "done" : ""}"><span class="stepno">${c.done ? "✓" : ""} Step ${c.step}</span><span><b>${esc(c.title)}</b>${c.done ? "" : `<br>${esc(c.text)}`}</span></li>`).join("");
 }
 
 // ---- Report -----------------------------------------------------------------------------------------
