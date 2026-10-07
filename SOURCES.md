@@ -15,6 +15,16 @@ Page numbers in the evidence refer to the PDF pages of these files.
 | Orji | Nkwachukwu Orji, "The Study of Politics: Logic, Approaches and Methods," in *A Handbook of Political Science* (2009) |
 | Polinode network | Course network map "ROTR Test 4" (Rulers of the Realm), app.polinode.com |
 
+## Books cited in the evidence
+
+| Shorthand | Book |
+|---|---|
+| Fonzi | Gaeton Fonzi, *The Last Investigation* (1993) |
+| Newman | John Newman, *Oswald and the CIA* (1995; 2008 ed.) |
+| Talbot / Brothers | David Talbot, *Brothers: The Hidden History of the Kennedy Years* (2007) |
+| Bolden | Abraham Bolden, *The Echo from Dealey Plaza* (2008) |
+| Sheehan Chron. n. | A numbered note in the Selected Chronology (shown under the timeline entry it accompanies in the case library) |
+
 ## Official record
 
 | Shorthand | Document |

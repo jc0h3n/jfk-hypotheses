@@ -101,7 +101,7 @@ table.matrix { border-collapse: separate; border-spacing: 0; width: 100%; font-s
 .matrix .meta-cell { white-space: nowrap; font-size: 0.78em; color: var(--muted); }
 .matrix .meta-cell label { display: flex; flex-direction: column; margin-bottom: 4px; }
 .matrix .meta-cell select { font-size: 1.1em; padding: 1px 2px; }
-.matrix th.hyp { min-width: 118px; }
+.matrix th.hyp { min-width: 150px; display: table-cell; }
 .matrix th.hyp textarea { font-weight: 600; font-size: 0.95em; padding: 2px 4px; min-height: 2.6em; }
 .hyp-head { display: flex; justify-content: space-between; align-items: center; font-size: 0.78em; color: var(--muted); margin-bottom: 2px; }
 .matrix td.cell { padding: 3px; text-align: center; }
@@ -181,7 +181,7 @@ mark { background: var(--mark); color: var(--mark-ink); padding: 0 1px; }
 .cards li { background: var(--panel); border-radius: 8px; padding: 12px 16px; }
 .cards h3 { font-size: 1em; margin: 0 0 6px; }
 .cards p { margin: 0 0 8px; }
-.hyp { display: inline-block; font-size: 0.92em; border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; margin: 0 4px 4px 0; background: var(--bg); }
+.hyp:not(th) { display: inline-block; font-size: 0.92em; border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; margin: 0 4px 4px 0; background: var(--bg); }
 .people { margin: 0; max-width: 860px; }
 .people dt { font-weight: 600; margin-top: 14px; }
 .people dd { margin: 2px 0 0; }
