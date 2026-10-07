@@ -5,7 +5,7 @@
  "question": "Who, if anyone, planned or directed the assassination of President Kennedy?",
  "analyst": "",
  "created": "2026-10-06T14:40:20.230Z",
- "updated": "2026-10-07T02:56:53.737Z",
+ "updated": "2026-10-07T03:06:51.432Z",
  "hypotheses": [
   {
    "id": "hb1",
@@ -47,1234 +47,2274 @@
   {
    "id": "b01",
    "text": "Oswald was a self-professed Marxist who defected to the USSR in 1959 and returned in 1962; documents and testimony show a troubled history, contempt for the U.S. system, violence toward his wife, and an attempt to shoot Gen. Walker.",
-   "source": "Reitzes pp. 6–7, 12; WR",
+   "source": "Warren Report ch. 7; Reitzes, Skeptic 18.3 (2013)",
    "type": "Report",
    "date": "1959–1963",
    "credibility": "H",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 7",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-7.html"
+    ],
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ]
+   ]
   },
   {
    "id": "b02",
    "text": "Despite decades of scrutiny, no money, payments or handlers tying Oswald to any group have been documented; researcher Harold Weisberg said he \"never had an extra penny.\"",
-   "source": "Reitzes p. 8",
+   "source": "HSCA Report I.C; Reitzes, Skeptic 18.3 (2013)",
    "type": "Absence of evidence",
    "date": "",
    "credibility": "M",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ]
+   ]
   },
   {
    "id": "b03",
    "text": "Oswald's New Orleans Fair Play for Cuba Committee chapter was a one-man operation using documents he made himself; other leftists kept their distance from him.",
-   "source": "Reitzes p. 7",
+   "source": "Warren Report ch. 7; Wikipedia, Fair Play for Cuba Committee",
    "type": "Fact",
    "date": "1963-08",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 7",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-7.html"
+    ],
+    [
+     "Wikipedia: Fair Play for Cuba Committee",
+     "https://en.wikipedia.org/wiki/Fair_Play_for_Cuba_Committee"
+    ]
+   ]
   },
   {
    "id": "b04",
    "text": "Some of Oswald's pro-Castro leaflets were stamped 544 Camp Street, the building that housed former FBI agent Guy Banister's office, a hub of anti-Castro activity.",
-   "source": "Syllabus p. 54; Sheehan Chron. p. 17",
+   "source": "HSCA vol. 10 (anti-Castro activities); Wikipedia, Guy Banister",
    "type": "Fact",
    "date": "1963-08",
    "credibility": "H",
    "relevance": "H",
    "notes": "Whether Oswald actually worked out of that building is disputed.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "Wikipedia: Guy Banister",
+     "https://en.wikipedia.org/wiki/Guy_Banister"
+    ]
+   ]
   },
   {
    "id": "b05",
    "text": "The HSCA concluded Oswald was likely seen with David Ferrie, and probably Guy Banister, in Clinton, Louisiana, in late summer 1963.",
-   "source": "Syllabus p. 58; HSCA",
+   "source": "HSCA Report I.C; HSCA vol. 10 (anti-Castro activities); Wikipedia, David Ferrie",
    "type": "Report",
    "date": "1963-08",
    "credibility": "M",
    "relevance": "H",
    "notes": "Ferrie and Banister were anti-Castro activists; Ferrie also worked for Carlos Marcello's lawyer.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "Wikipedia: David Ferrie",
+     "https://en.wikipedia.org/wiki/David_Ferrie"
+    ]
+   ]
   },
   {
    "id": "b06",
    "text": "Silvia Odio reported that in late September 1963 three men, one introduced as \"Leon Oswald,\" an ex-Marine, visited her seeking help for anti-Castro activities; the HSCA found her account credible.",
-   "source": "Sheehan Chron. pp. 23, 34; HSCA",
+   "source": "Warren Report ch. 6; HSCA vol. 10 (anti-Castro activities); Wikipedia, Silvia Odio",
    "type": "Report",
    "date": "1963-09",
    "credibility": "M",
    "relevance": "H",
    "notes": "The Warren Commission doubted the timing because Oswald was believed to be traveling to Mexico.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 6",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "Wikipedia: Silvia Odio",
+     "https://en.wikipedia.org/wiki/Silvia_Odio"
+    ]
+   ]
   },
   {
    "id": "b07",
    "text": "CIA records show Oswald (or someone using his name) contacted Soviet vice consul Valery Kostikov in Mexico City; Kostikov was suspected of belonging to the KGB department responsible for sabotage and assassination.",
-   "source": "Syllabus pp. 62–63",
+   "source": "HSCA Lopez Report (Mexico City); HSCA Report I.C",
    "type": "Report",
    "date": "1963-09-28",
    "credibility": "M",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b08",
    "text": "There are unresolved questions about the Mexico City visit: whether recorded calls were really Oswald, and why CIA reporting at the time omitted details (the HSCA's Lopez Report).",
-   "source": "Syllabus pp. 12, 62–63",
+   "source": "HSCA Lopez Report (Mexico City); ARRB Final Report (1998)",
    "type": "Report",
    "date": "1963-10",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b09",
    "text": "CIA headquarters' October 1963 response about Oswald omitted recent information it had on file (his New Orleans activities); a signer later told researcher John Newman she was signing off on something she knew was not accurate.",
-   "source": "Syllabus p. 62 n. 112",
+   "source": "HSCA Lopez Report (Mexico City); Wikipedia, Lee Harvey Oswald",
    "type": "Report",
    "date": "1963-10-10",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ],
+    [
+     "Wikipedia: Lee Harvey Oswald",
+     "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald"
+    ]
+   ]
   },
   {
    "id": "b10",
    "text": "The Cuban consulate refused Oswald a visa, and a staffer told him someone like him could only harm the revolution.",
-   "source": "Reitzes p. 7",
+   "source": "Warren Report ch. 6; HSCA Lopez Report (Mexico City)",
    "type": "Report",
    "date": "1963-09-27",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 6",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html"
+    ],
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ]
+   ]
   },
   {
    "id": "b11",
    "text": "On September 7, 1963, Castro publicly warned that U.S. leaders aiding plans to eliminate Cuban leaders would themselves not be safe.",
-   "source": "AP interview (Daniel Harker); HSCA",
+   "source": "Church Committee Book V (1976); HSCA Report I.C",
    "type": "Fact",
    "date": "1963-09-07",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b12",
    "text": "The CIA plotted with Mafia figures Johnny Roselli, Sam Giancana and Santo Trafficante to assassinate Castro (1960–63), as part of a wider covert war against Cuba (Operation Mongoose).",
-   "source": "Church 1975; Syllabus pp. 39, 42, 47",
+   "source": "Church Committee, Alleged Assassination Plots (1975); Wikipedia, Operation Mongoose",
    "type": "Fact",
    "date": "1960–1963",
    "credibility": "H",
    "relevance": "H",
    "notes": "Gives several groups both motive and capability; also gives Castro a motive.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee, Alleged Assassination Plots (1975)",
+     "https://www.intelligence.senate.gov/sites/default/files/94465.pdf"
+    ],
+    [
+     "Wikipedia: Operation Mongoose",
+     "https://en.wikipedia.org/wiki/Operation_Mongoose"
+    ]
+   ]
   },
   {
    "id": "b13",
    "text": "On the day of the assassination, a CIA officer met Cuban official Rolando Cubela (AMLASH) and offered him a poison device for use against Castro.",
-   "source": "Church 1976 (Book V)",
+   "source": "Church Committee Book V (1976); Wikipedia, Rolando Cubela Secades",
    "type": "Fact",
    "date": "1963-11-22",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "Wikipedia: Rolando Cubela Secades",
+     "https://en.wikipedia.org/wiki/Rolando_Cubela_Secades"
+    ]
+   ]
   },
   {
    "id": "b14",
    "text": "The CIA and FBI did not tell the Warren Commission about the plots against Castro; the Church Committee found both agencies' investigations deficient.",
-   "source": "Syllabus p. 12; Church 1976",
+   "source": "Church Committee Book V (1976)",
    "type": "Report",
    "date": "1976",
    "credibility": "H",
    "relevance": "H",
    "notes": "Withholding can protect operations or hide involvement; the inference is the analyst's.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ]
+   ]
   },
   {
    "id": "b15",
    "text": "The HSCA concluded the Soviet and Cuban governments, organized crime as a group, and anti-Castro groups as groups were not involved, but could not rule out individual members.",
-   "source": "Syllabus p. 13; HSCA",
+   "source": "HSCA Report I.C",
    "type": "Report",
    "date": "1979",
    "credibility": "M",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b16",
    "text": "Carlos Marcello allegedly threatened the President in 1962 (the Ed Becker account); the HSCA found Marcello had motive, means and opportunity but no direct evidence of involvement.",
-   "source": "HSCA; Syllabus p. 89 (Davis, Mafia Kingfish)",
+   "source": "HSCA Report I.C; HSCA vol. 9 (organized crime; Ruby); Wikipedia, Carlos Marcello; Ruby)",
    "type": "Report",
    "date": "1962",
    "credibility": "L",
    "relevance": "M",
    "notes": "Becker's account is single-sourced and was told years later.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "HSCA vol. 9 (organized crime; Ruby)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol9.htm"
+    ],
+    [
+     "Wikipedia: Carlos Marcello",
+     "https://en.wikipedia.org/wiki/Carlos_Marcello"
+    ]
+   ]
   },
   {
    "id": "b17",
    "text": "Santo Trafficante allegedly said in 1962 that Kennedy was \"going to be hit\" (the Jose Aleman account); Aleman qualified his account before the HSCA.",
-   "source": "HSCA",
+   "source": "HSCA Report I.C; HSCA vol. 5; Wikipedia, Santo Trafficante Jr.",
    "type": "Report",
    "date": "1962",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "HSCA vol. 5",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol5.htm"
+    ],
+    [
+     "Wikipedia: Santo Trafficante Jr.",
+     "https://en.wikipedia.org/wiki/Santo_Trafficante_Jr."
+    ]
+   ]
   },
   {
    "id": "b18",
    "text": "Jack Ruby made phone calls to mob-connected figures in the months before the assassination; testimony links many of them to his dispute with the corruption-ridden variety artists' union (AGVA).",
-   "source": "Reitzes p. 10",
+   "source": "HSCA Report I.C; HSCA vol. 9 (organized crime; Ruby); Wikipedia, Jack Ruby; Ruby)",
    "type": "Report",
    "date": "1963",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "HSCA vol. 9 (organized crime; Ruby)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol9.htm"
+    ],
+    [
+     "Wikipedia: Jack Ruby",
+     "https://en.wikipedia.org/wiki/Jack_Ruby"
+    ]
+   ]
   },
   {
    "id": "b19",
    "text": "People who knew Ruby, including Dallas police intelligence and his prosecutor, described a volatile, talkative police groupie, not a mob operative; evidence at his trial showed organic brain damage.",
-   "source": "Reitzes pp. 9–10",
+   "source": "Warren Report ch. 5; Reitzes, Skeptic 18.3 (2013)",
    "type": "Report",
    "date": "1964",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ],
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ]
+   ]
   },
   {
    "id": "b20",
    "text": "Ruby shot Oswald in the Dallas police basement on November 24 during a transfer, ending any chance of a trial; how he got into the basement is disputed.",
-   "source": "Ext. Chron. p. 20; WR; HSCA",
+   "source": "Warren Report ch. 5; HSCA Report I.C",
    "type": "Fact",
    "date": "1963-11-24",
    "credibility": "H",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b21",
    "text": "In June 1964 Ruby begged Earl Warren to take him to Washington so he could tell the truth; Warren declined.",
-   "source": "Syllabus p. 70",
+   "source": "Warren Commission hearings and exhibits; Wikipedia, Jack Ruby",
    "type": "Report",
    "date": "1964-06-07",
    "credibility": "M",
    "relevance": "M",
    "notes": "Ruby's mental state by then is part of the question.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Commission hearings and exhibits",
+     "https://www.history-matters.com/archive/contents/wc/contents_wh.htm"
+    ],
+    [
+     "Wikipedia: Jack Ruby",
+     "https://en.wikipedia.org/wiki/Jack_Ruby"
+    ]
+   ]
   },
   {
    "id": "b22",
    "text": "Rose Cheramie, a drug-addicted woman injured on a Louisiana highway, told a state police lieutenant on November 20 that two men she traveled with planned to kill Kennedy in Dallas.",
-   "source": "Syllabus p. 66",
+   "source": "HSCA vol. 10 (anti-Castro activities)",
    "type": "Report",
    "date": "1963-11-20",
    "credibility": "L",
    "relevance": "M",
    "notes": "Single account through the officer, never independently corroborated.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ]
+   ]
   },
   {
    "id": "b23",
    "text": "Secret Service agent Abraham Bolden says a plot to shoot the President in Chicago in early November 1963 was reported and handled without written records.",
-   "source": "Ext. Chron. p. 1; Syllabus p. 89 (Bolden)",
+   "source": "Wikipedia, Abraham Bolden; ARRB Final Report (1998)",
    "type": "Report",
    "date": "1963-11-01",
    "credibility": "L",
    "relevance": "M",
    "notes": "No records of the plot exist.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Abraham Bolden",
+     "https://en.wikipedia.org/wiki/Abraham_Bolden"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b24",
    "text": "Oswald left a note for FBI agent James Hosty at the Dallas office weeks before the assassination; after the assassination it was destroyed on the special agent in charge's order, a fact not revealed until 1975.",
-   "source": "Ext. Chron. p. 14",
+   "source": "Wikipedia, James P. Hosty; HSCA Report I.D",
    "type": "Fact",
    "date": "1963-11",
    "credibility": "H",
    "relevance": "M",
    "notes": "Hosty testified the note complained about visits to his wife; its true content can't be checked.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: James P. Hosty",
+     "https://en.wikipedia.org/wiki/James_P._Hosty"
+    ],
+    [
+     "HSCA Report I.D",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1d.html"
+    ]
+   ]
   },
   {
    "id": "b25",
    "text": "Allen Dulles, the CIA director Kennedy replaced after the Bay of Pigs, served on the Warren Commission; he was recommended by Robert Kennedy.",
-   "source": "Reitzes p. 8",
+   "source": "Wikipedia, Allen Dulles; Wikipedia, Warren Commission",
    "type": "Report",
    "date": "1963-11",
    "credibility": "M",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Allen Dulles",
+     "https://en.wikipedia.org/wiki/Allen_Dulles"
+    ],
+    [
+     "Wikipedia: Warren Commission",
+     "https://en.wikipedia.org/wiki/Warren_Commission"
+    ]
+   ]
   },
   {
    "id": "b26",
    "text": "Kennedy's relationship with the CIA was repaired after the Bay of Pigs; weeks before his death he publicly defended the agency. The quote about splintering the CIA \"into a thousand pieces\" is anonymously sourced.",
-   "source": "Reitzes pp. 7–8",
+   "source": "Church Committee Book V (1976); Reitzes, Skeptic 18.3 (2013)",
    "type": "Report",
    "date": "1963",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ]
+   ]
   },
   {
    "id": "b27",
    "text": "NSAM 263 (October 11, 1963) approved withdrawing 1,000 U.S. advisers from Vietnam by the end of 1963, conditional on progress.",
-   "source": "Syllabus p. 62; Reitzes p. 8",
+   "source": "Wikipedia, National Security Action Memorandum 263",
    "type": "Fact",
    "date": "1963-10-11",
    "credibility": "H",
    "relevance": "M",
-   "notes": "Read as a planned exit (Syllabus) or as leverage on Diem (Reitzes, quoting Karnow).",
-   "excluded": false
+   "notes": "Read as a planned exit (John Newman, JFK and Vietnam) or as leverage on Diem (Reitzes, quoting Karnow).",
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: National Security Action Memorandum 263",
+     "https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_263"
+    ]
+   ]
   },
   {
    "id": "b28",
    "text": "In public through November 22, 1963, Kennedy said the U.S. should stay in Vietnam; aides later recalled private talk of withdrawal (O'Donnell, Morse, Forrestal; \"Vietnam is not worth another American life\").",
-   "source": "Reitzes pp. 8–9; Syllabus p. 66",
+   "source": "Wikipedia, National Security Action Memorandum 263; Reitzes, Skeptic 18.3 (2013)",
    "type": "Report",
    "date": "1963",
    "credibility": "M",
    "relevance": "M",
    "notes": "Recollections came years later and may be colored by politics (Reitzes p. 9).",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: National Security Action Memorandum 263",
+     "https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_263"
+    ],
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ]
+   ]
   },
   {
    "id": "b29",
    "text": "In 1962 the Joint Chiefs proposed Operation Northwoods, staged incidents to justify war with Cuba; Kennedy's administration rejected it.",
-   "source": "Declassified by the Assassination Records Review Board (1997)",
+   "source": "Wikipedia, Operation Northwoods; ARRB Final Report (1998)",
    "type": "Fact",
    "date": "1962-03-13",
    "credibility": "H",
    "relevance": "M",
    "notes": "Shows hostility and willingness at the top of the military, not involvement in 1963.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Operation Northwoods",
+     "https://en.wikipedia.org/wiki/Operation_Northwoods"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b30",
    "text": "The claim that Gen. Curtis LeMay ordered the assassination or attended the autopsy is raised in the course but not documented in its materials.",
-   "source": "Syllabus p. 34 (Question 15)",
+   "source": "Wikipedia, Curtis LeMay",
    "type": "Report",
    "date": "",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Curtis LeMay",
+     "https://en.wikipedia.org/wiki/Curtis_LeMay"
+    ]
+   ]
   },
   {
    "id": "b31",
    "text": "Jim Garrison prosecuted Clay Shaw for conspiracy; the jury acquitted him in March 1969.",
-   "source": "Syllabus pp. 10, 25, 72",
+   "source": "Wikipedia, Clay Shaw; Wikipedia, Jim Garrison",
    "type": "Fact",
    "date": "1969-03-01",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Clay Shaw",
+     "https://en.wikipedia.org/wiki/Clay_Shaw"
+    ],
+    [
+     "Wikipedia: Jim Garrison",
+     "https://en.wikipedia.org/wiki/Jim_Garrison"
+    ]
+   ]
   },
   {
    "id": "b32",
    "text": "Clay Shaw had been a source for the CIA's Domestic Contact Service in the 1950s, something he denied at trial.",
-   "source": "HSCA; later released CIA records",
+   "source": "Wikipedia, Clay Shaw; ARRB Final Report (1998)",
    "type": "Report",
    "date": "1950s",
    "credibility": "M",
    "relevance": "M",
    "notes": "Domestic contacts were common among internationally active businessmen.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Clay Shaw",
+     "https://en.wikipedia.org/wiki/Clay_Shaw"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b33",
    "text": "E. Howard Hunt, late in life, told his son of a CIA-linked plot (the \"Big Event\").",
-   "source": "Syllabus p. 5",
+   "source": "Wikipedia, E. Howard Hunt",
    "type": "Report",
    "date": "2007",
    "credibility": "L",
    "relevance": "M",
    "notes": "Hunt gave differing accounts at different times.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: E. Howard Hunt",
+     "https://en.wikipedia.org/wiki/E._Howard_Hunt"
+    ]
+   ]
   },
   {
    "id": "b34",
    "text": "Years later the KGB forged documents tying Oswald to the CIA as disinformation.",
-   "source": "Reitzes p. 7",
+   "source": "Reitzes, Skeptic 18.3 (2013); Wikipedia, John F. Kennedy assassination conspiracy theories",
    "type": "Report",
    "date": "1970s",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ],
+    [
+     "Wikipedia: John F. Kennedy assassination conspiracy theories",
+     "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories"
+    ]
+   ]
   },
   {
    "id": "b35",
    "text": "Days before the assassination the Soviet embassy received a crude letter signed \"Lee H. Oswald\" that seemed to implicate the USSR; Soviet officials treated it as a forgery or provocation.",
-   "source": "Syllabus p. 13",
+   "source": "HSCA Report I.C; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-18",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b36",
    "text": "KGB defector Yuri Nosenko said the KGB took no interest in Oswald and judged him unstable; the CIA confined and questioned Nosenko for years before accepting him as genuine.",
-   "source": "Syllabus p. 70; Reitzes pp. 6–7",
+   "source": "Wikipedia, Yuri Nosenko; HSCA Report I.C",
    "type": "Report",
    "date": "1964-02-04",
    "credibility": "M",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Yuri Nosenko",
+     "https://en.wikipedia.org/wiki/Yuri_Nosenko"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b37",
    "text": "After the assassination Soviet propaganda blamed a right-wing cabal; Jacqueline Kennedy lamented that her husband was killed by \"some silly little Communist.\"",
-   "source": "Reitzes pp. 6–7",
+   "source": "Reitzes, Skeptic 18.3 (2013)",
    "type": "Report",
    "date": "1963-11",
    "credibility": "M",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ]
+   ]
   },
   {
    "id": "b38",
    "text": "Thesis 10's network maps long-running ties among financiers, intelligence officers, military figures and organized-crime and exile operatives.",
-   "source": "Course Polinode network \"ROTR Test 4\"",
+   "source": "Wikipedia, John F. Kennedy assassination conspiracy theories",
    "type": "Argument",
    "date": "",
    "credibility": "L",
    "relevance": "M",
    "notes": "Connections show who knew whom, not who did what.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: John F. Kennedy assassination conspiracy theories",
+     "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories"
+    ]
+   ]
   },
   {
    "id": "b39",
    "text": "President Johnson pressed the Dallas police to end their investigation and leave it to the FBI.",
-   "source": "Syllabus p. 5",
+   "source": "Miller Center, Johnson telephone recordings; Wikipedia, Lyndon B. Johnson",
    "type": "Report",
    "date": "1963-11",
    "credibility": "L",
    "relevance": "M",
    "notes": "Single-sourced in a secondary primer; could reflect a wish to close down rumors of a foreign plot.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Miller Center, Johnson telephone recordings",
+     "https://millercenter.org/the-presidency/secret-white-house-tapes"
+    ],
+    [
+     "Wikipedia: Lyndon B. Johnson",
+     "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+    ]
+   ]
   },
   {
    "id": "b40",
    "text": "Record releases under the 1992 JFK Records Act and by the Review Board (1998) exposed agency secrecy and withheld information but no document showing who, if anyone, directed the assassination.",
-   "source": "Syllabus p. 14; ARRB Final Report (1998)",
+   "source": "ARRB Final Report (1998); Wikipedia, President John F. Kennedy Assassination Records Collection Act of 1992",
    "type": "Absence of evidence",
    "date": "1998",
    "credibility": "M",
    "relevance": "H",
    "notes": "Researchers disagree on what the later releases mean.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ],
+    [
+     "Wikipedia: President John F. Kennedy Assassination Records Collection Act of 1992",
+     "https://en.wikipedia.org/wiki/President_John_F._Kennedy_Assassination_Records_Collection_Act_of_1992"
+    ]
+   ]
   },
   {
    "id": "b41",
    "text": "Ruby entered the police basement minutes after wiring $25 to an employee from a nearby Western Union office, and Oswald was brought out about four minutes later.",
-   "source": "WR ch. 5; Ext. Chron. p. 229",
+   "source": "Warren Report ch. 5; Wikipedia, Jack Ruby",
    "type": "Fact",
    "date": "1963-11-24",
    "credibility": "H",
    "relevance": "H",
    "notes": "Supporters of a lone-Ruby view say the timing was chance; others say the transfer waited for Ruby.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ],
+    [
+     "Wikipedia: Jack Ruby",
+     "https://en.wikipedia.org/wiki/Jack_Ruby"
+    ]
+   ]
   },
   {
    "id": "b42",
    "text": "Anonymous callers warned the FBI and the sheriff's office overnight that Oswald would be killed during the transfer; a switchboard operator later said the voice was Ruby's. The transfer plan was not changed.",
-   "source": "Ext. Chron. p. 224",
+   "source": "Warren Report ch. 5; HSCA Report I.C",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "M",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b43",
    "text": "Many of the officers in the basement had known Ruby for years; Sgt. Patrick Dean, in charge of basement security, failed a polygraph whose records later vanished.",
-   "source": "Ext. Chron. pp. 228, 230",
+   "source": "Warren Report ch. 5; HSCA Report I.C",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b44",
    "text": "Ruby told four officers within half an hour that he came down the Main Street ramp, then refused to tell the FBI how he got in; the officer guarding the ramp and a cab driver watching it said no one came down it.",
-   "source": "Ext. Chron. pp. 229–233",
+   "source": "Warren Report ch. 5; HSCA Report I.C",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b45",
    "text": "Ruby said later that someone in the police must have tipped him off to time it so precisely, though he also maintained he acted on impulse.",
-   "source": "Ext. Chron. p. 232",
+   "source": "Warren Commission hearings and exhibits; Wikipedia, Jack Ruby",
    "type": "Report",
    "date": "1964",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Commission hearings and exhibits",
+     "https://www.history-matters.com/archive/contents/wc/contents_wh.htm"
+    ],
+    [
+     "Wikipedia: Jack Ruby",
+     "https://en.wikipedia.org/wiki/Jack_Ruby"
+    ]
+   ]
   },
   {
    "id": "b46",
    "text": "Ruby attended Oswald's midnight press conference on November 22 and corrected Wade that Oswald's group was the Fair Play for Cuba Committee.",
-   "source": "Ext. Chron. p. 207",
+   "source": "Warren Report ch. 5",
    "type": "Fact",
    "date": "1963-11-23",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ]
+   ]
   },
   {
    "id": "b47",
    "text": "Ruby was seen at police headquarters several times on November 22 and 23, at one point carrying a loaded revolver.",
-   "source": "WR; Ext. Chron. p. 190",
+   "source": "Warren Report ch. 5",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 5",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-5.html"
+    ]
+   ]
   },
   {
    "id": "b48",
    "text": "Waitress Mary Lawrence and others said they saw Ruby with a man they took to be Oswald before the assassination; Carroll Jarnagin said he overheard Ruby and \"H.L. Lee\" discuss a killing at the Carousel Club in October. None was confirmed.",
-   "source": "Ext. Chron. pp. 208, 262",
+   "source": "Warren Commission hearings and exhibits; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Commission hearings and exhibits",
+     "https://www.history-matters.com/archive/contents/wc/contents_wh.htm"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b49",
    "text": "Mobster John Roselli later told columnist Jack Anderson that Ruby was ordered to silence Oswald because the mob feared he would talk.",
-   "source": "Ext. Chron. p. 232",
+   "source": "Wikipedia, John Roselli; HSCA Report I.C",
    "type": "Report",
    "date": "1970s",
    "credibility": "L",
    "relevance": "H",
    "notes": "Roselli was murdered in 1976 after testifying to the Church Committee.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: John Roselli",
+     "https://en.wikipedia.org/wiki/John_Roselli"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b50",
    "text": "HSCA polygraph experts found Ruby's 1964 polygraph badly run, and said his reaction to \"Did you assist Oswald?\" suggested he may have been lying.",
-   "source": "HSCA vol. 8; Ext. Chron. p. 241",
+   "source": "HSCA vol. 8 (acoustics; Ruby polygraph); Ruby polygraph)",
    "type": "Report",
    "date": "1978",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 8 (acoustics; Ruby polygraph)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol8.htm"
+    ]
+   ]
   },
   {
    "id": "b51",
    "text": "Former Ruby employee William Abadie told the FBI Ruby was tied to racketeers and corrupt Dallas police and ran gambling.",
-   "source": "Ext. Chron. p. 263",
+   "source": "HSCA vol. 9 (organized crime; Ruby); Mary Ferrell Foundation archive; Ruby)",
    "type": "Report",
    "date": "1963-12-06",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 9 (organized crime; Ruby)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol9.htm"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b52",
    "text": "Joseph Campisi, a Dallas restaurateur the HSCA linked to the Marcello organization, visited Ruby in jail on November 30.",
-   "source": "Ext. Chron. p. 257; HSCA",
+   "source": "HSCA vol. 9 (organized crime; Ruby); HSCA Report I.C; Ruby)",
    "type": "Fact",
    "date": "1963-11-30",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 9 (organized crime; Ruby)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol9.htm"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b53",
    "text": "In Tampa, Santo Trafficante toasted Kennedy's death at dinner with lawyer Frank Ragano, who later said Trafficante admitted involvement on his deathbed.",
-   "source": "Ext. Chron. p. 190",
+   "source": "Wikipedia, Frank Ragano; Wikipedia, Santo Trafficante Jr.",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "L",
    "relevance": "H",
    "notes": "Ragano's account appeared in 1992; Trafficante's family disputed it.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Frank Ragano",
+     "https://en.wikipedia.org/wiki/Frank_Ragano"
+    ],
+    [
+     "Wikipedia: Santo Trafficante Jr.",
+     "https://en.wikipedia.org/wiki/Santo_Trafficante_Jr."
+    ]
+   ]
   },
   {
    "id": "b54",
    "text": "Carlos Marcello was acquitted in New Orleans on the afternoon of the assassination; David Ferrie had been working on his defense and met him on November 9 and 16.",
-   "source": "Ext. Chron. pp. 180, 242",
+   "source": "Wikipedia, Carlos Marcello; Wikipedia, David Ferrie",
    "type": "Fact",
    "date": "1963-11-22",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Carlos Marcello",
+     "https://en.wikipedia.org/wiki/Carlos_Marcello"
+    ],
+    [
+     "Wikipedia: David Ferrie",
+     "https://en.wikipedia.org/wiki/David_Ferrie"
+    ]
+   ]
   },
   {
    "id": "b55",
    "text": "Ferrie drove overnight through a storm to Houston on November 22, spent hours by a pay phone at a skating rink without skating, then called Marcello's office.",
-   "source": "Ext. Chron. pp. 200, 215",
+   "source": "Wikipedia, David Ferrie; HSCA vol. 10 (anti-Castro activities)",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: David Ferrie",
+     "https://en.wikipedia.org/wiki/David_Ferrie"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ]
+   ]
   },
   {
    "id": "b56",
    "text": "Marcello's lawyer G. Wray Gill told Ferrie's roommate that Oswald had been arrested with Ferrie's library card; no such card appears in the police inventory, and Ferrie denied lending it.",
-   "source": "Ext. Chron. pp. 235, 238",
+   "source": "Wikipedia, David Ferrie; HSCA vol. 10 (anti-Castro activities)",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: David Ferrie",
+     "https://en.wikipedia.org/wiki/David_Ferrie"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ]
+   ]
   },
   {
    "id": "b57",
    "text": "Jack Martin told authorities Ferrie knew Oswald from the Civil Air Patrol and trained him with a rifle; he retracted the next week, blaming drink, and the FBI called him unreliable.",
-   "source": "Ext. Chron. pp. 235, 249, 252",
+   "source": "Wikipedia, David Ferrie; HSCA vol. 10 (anti-Castro activities)",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: David Ferrie",
+     "https://en.wikipedia.org/wiki/David_Ferrie"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ]
+   ]
   },
   {
    "id": "b58",
    "text": "Civil Air Patrol instructor Jerry Paradis later told the HSCA that Oswald attended the Lakefront squadron while Ferrie was involved; a 1955 photograph shows both at a CAP event.",
-   "source": "Ext. Chron. p. 244; HSCA",
+   "source": "HSCA vol. 10 (anti-Castro activities); HSCA Report I.C",
    "type": "Report",
    "date": "1955",
    "credibility": "M",
    "relevance": "M",
    "notes": "Shows acquaintance in 1955, not later contact.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b59",
    "text": "Guy Banister pistol-whipped Jack Martin on the night of the assassination after Martin asked whether he would kill him \"like you all did Kennedy.\"",
-   "source": "Ext. Chron. p. 191",
+   "source": "Wikipedia, Guy Banister",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Guy Banister",
+     "https://en.wikipedia.org/wiki/Guy_Banister"
+    ]
+   ]
   },
   {
    "id": "b60",
    "text": "Joseph Milteer, a white supremacist, was taped by an informant on November 9 predicting the President would be shot from a building with a high-powered rifle, and afterward boasted it happened as he said.",
-   "source": "Ext. Chron. pp. 208, 225",
+   "source": "HSCA Report I.D; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-09",
    "credibility": "M",
    "relevance": "M",
    "notes": "The FBI questioned and released him; he is not linked to the shooting itself.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.D",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1d.html"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b61",
    "text": "Teamsters president Jimmy Hoffa reportedly cheered the news; Robert Kennedy asked aides to look into Hoffa and the Mafia within days.",
-   "source": "Ext. Chron. pp. 193, 240, 247",
+   "source": "Wikipedia, Jimmy Hoffa; HSCA Report I.C",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Jimmy Hoffa",
+     "https://en.wikipedia.org/wiki/Jimmy_Hoffa"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b62",
    "text": "Robert Kennedy told Harry Ruiz Williams \"One of your guys did it\" on November 22, and later told family and confidants he believed a plot arising from a secret anti-Castro operation killed his brother.",
-   "source": "Ext. Chron. pp. 181, 223",
+   "source": "Wikipedia, Robert F. Kennedy",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "H",
    "notes": "Per Talbot, Brothers.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Robert F. Kennedy",
+     "https://en.wikipedia.org/wiki/Robert_F._Kennedy"
+    ]
+   ]
   },
   {
    "id": "b63",
    "text": "Robert Kennedy and Jacqueline Kennedy sent Bill Walton to tell a Soviet contact they believed a domestic political conspiracy, not Moscow, killed the President.",
-   "source": "Ext. Chron. p. 251",
+   "source": "Wikipedia, Robert F. Kennedy",
    "type": "Report",
    "date": "1963-12",
    "credibility": "M",
    "relevance": "H",
    "notes": "Per Fursenko and Naftali, and Talbot.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Robert F. Kennedy",
+     "https://en.wikipedia.org/wiki/Robert_F._Kennedy"
+    ]
+   ]
   },
   {
    "id": "b64",
    "text": "CIA officer Gary Underhill reportedly told friends on November 22 that Oswald was a patsy and a CIA-linked group was responsible; he was found shot in 1964, ruled a suicide.",
-   "source": "Ext. Chron. p. 189",
+   "source": "Wikipedia, John Garrett Underhill Jr.",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: John Garrett Underhill Jr.",
+     "https://en.wikipedia.org/wiki/John_Garrett_Underhill_Jr."
+    ]
+   ]
   },
   {
    "id": "b65",
    "text": "Desmond FitzGerald, who ran the CIA's Cuba operations and met AMLASH's handlers, is said by his wife to have wept when Oswald was shot, saying \"Now we'll never know.\"",
-   "source": "Ext. Chron. p. 232",
+   "source": "Wikipedia, Desmond FitzGerald (CIA officer); Church Committee Book V (1976)",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "L",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Desmond FitzGerald (CIA officer)",
+     "https://en.wikipedia.org/wiki/Desmond_FitzGerald_(CIA_officer)"
+    ],
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ]
+   ]
   },
   {
    "id": "b66",
    "text": "On November 23 the CIA told AMLASH's case officer to break contact and asked that Sylvia Duran's arrest in Mexico City be called off, citing U.S. freedom of action on Cuban responsibility.",
-   "source": "Ext. Chron. p. 220",
+   "source": "Church Committee Book V (1976); HSCA Lopez Report (Mexico City)",
    "type": "Report",
    "date": "1963-11-23",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ]
+   ]
   },
   {
    "id": "b67",
    "text": "Dallas FBI agents who heard the Mexico City recording and saw the photograph of the man who called himself Oswald said neither was Oswald; Hoover told Johnson there appeared to be a second person.",
-   "source": "Ext. Chron. pp. 216, 218, 226",
+   "source": "HSCA Lopez Report (Mexico City); Miller Center, Johnson telephone recordings",
    "type": "Report",
    "date": "1963-11-23",
    "credibility": "H",
    "relevance": "H",
    "notes": "The CIA later said the tapes had been erased.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ],
+    [
+     "Miller Center, Johnson telephone recordings",
+     "https://millercenter.org/the-presidency/secret-white-house-tapes"
+    ]
+   ]
   },
   {
    "id": "b68",
    "text": "CIA headquarters officers approved an October 1963 cable about Oswald that omitted recent reports on him; Jane Roman later admitted signing off on something she knew was untrue.",
-   "source": "Sheehan Chron. n. 112; Newman",
+   "source": "HSCA Lopez Report (Mexico City); ARRB Final Report (1998); Newman",
    "type": "Report",
    "date": "1963-10",
    "credibility": "H",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b69",
    "text": "CIA translator Boris Tarasoff said the Mexico City station already knew Oswald's name and was \"very hot\" about him before the October 1 call was transcribed.",
-   "source": "Sheehan Chron. n. 110",
+   "source": "HSCA Lopez Report (Mexico City)",
    "type": "Report",
    "date": "1963-10",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ]
+   ]
   },
   {
    "id": "b70",
    "text": "David Atlee Phillips, in charge of covert action and anti-Cuban operations in Mexico City, initially championed Gilberto Alvarado's story that Cubans paid Oswald to kill Kennedy; Alvarado retracted on November 30.",
-   "source": "Sheehan Chron. n. 91; Ext. Chron. p. 243",
+   "source": "Wikipedia, David Atlee Phillips; HSCA Lopez Report (Mexico City)",
    "type": "Report",
    "date": "1963-11-25",
    "credibility": "M",
    "relevance": "H",
    "notes": "The story, if believed, pointed toward Castro.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: David Atlee Phillips",
+     "https://en.wikipedia.org/wiki/David_Atlee_Phillips"
+    ],
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ]
+   ]
   },
   {
    "id": "b71",
    "text": "Antonio Veciana said his CIA contact \"Maurice Bishop,\" whom he later identified as David Phillips, was with Oswald in Dallas in late summer 1963; Phillips denied it.",
-   "source": "Fonzi; HSCA",
+   "source": "Wikipedia, Antonio Veciana; HSCA vol. 10 (anti-Castro activities); Fonzi",
    "type": "Report",
    "date": "1963-08",
    "credibility": "L",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Antonio Veciana",
+     "https://en.wikipedia.org/wiki/Antonio_Veciana"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ]
+   ]
   },
   {
    "id": "b72",
    "text": "The DRE, a CIA-funded exile group, clashed with Oswald in New Orleans and was among the first to publicize his Castro ties after the assassination; its CIA case officer, George Joannides, later served as CIA liaison to the HSCA without disclosing that role.",
-   "source": "Sheehan Chron. n. 106; ARRB",
+   "source": "Wikipedia, George Joannides; Wikipedia, Directorio Revolucionario Estudiantil; ARRB Final Report (1998)",
    "type": "Report",
    "date": "1963",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: George Joannides",
+     "https://en.wikipedia.org/wiki/George_Joannides"
+    ],
+    [
+     "Wikipedia: Directorio Revolucionario Estudiantil",
+     "https://en.wikipedia.org/wiki/Directorio_Revolucionario_Estudiantil"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b73",
    "text": "William Harvey ran the CIA–Roselli plots against Castro and the ZRRIFLE \"executive action\" program, reportedly without the knowledge of the Kennedys or Director McCone, and stayed close to Roselli in 1963.",
-   "source": "Sheehan Chron. n. 96; Church",
+   "source": "Wikipedia, William King Harvey; Church Committee, Alleged Assassination Plots (1975)",
    "type": "Report",
    "date": "1962–63",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: William King Harvey",
+     "https://en.wikipedia.org/wiki/William_King_Harvey"
+    ],
+    [
+     "Church Committee, Alleged Assassination Plots (1975)",
+     "https://www.intelligence.senate.gov/sites/default/files/94465.pdf"
+    ]
+   ]
   },
   {
    "id": "b74",
    "text": "David Morales, chief of operations at JMWAVE, reportedly told friends late in life that \"we took care of that son of a bitch,\" referring to Kennedy.",
-   "source": "Fonzi; Sheehan Chron. n. 83",
+   "source": "Wikipedia, David Sánchez Morales; Fonzi",
    "type": "Report",
    "date": "1970s",
    "credibility": "L",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: David Sánchez Morales",
+     "https://en.wikipedia.org/wiki/David_S%C3%A1nchez_Morales"
+    ]
+   ]
   },
   {
    "id": "b75",
    "text": "John Martino, linked to exile and mob figures, reportedly told associates before and after the assassination that it was arranged by anti-Castro exiles and that Oswald was set up.",
-   "source": "Sheehan Chron. nn. 92, 103; HSCA",
+   "source": "HSCA vol. 10 (anti-Castro activities); Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963",
    "credibility": "L",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b76",
    "text": "The Kennedy administration's AMWORLD program, a planned coup in Cuba run through Manuel Artime, reportedly set December 1, 1963, as a target date; it was shelved after the assassination.",
-   "source": "Sheehan Chron. nn. 85–86; Ext. Chron. p. 258",
+   "source": "Wikipedia, Manuel Artime; Church Committee Book V (1976)",
    "type": "Report",
    "date": "1963",
    "credibility": "M",
    "relevance": "M",
    "notes": "Some argue knowledge of this plan created pressure to blame Castro or to cover up.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Manuel Artime",
+     "https://en.wikipedia.org/wiki/Manuel_Artime"
+    ],
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ]
+   ]
   },
   {
    "id": "b77",
    "text": "Gilberto Policarpo Lopez, tied to the Fair Play for Cuba Committee in Tampa, crossed into Mexico the day after the assassination and flew to Havana as the only passenger on a flight; the HSCA called the case troubling and unresolved.",
-   "source": "Ext. Chron. pp. 247, 267; HSCA",
+   "source": "HSCA Report I.C; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-27",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b78",
    "text": "Two Cuban exiles, with an American introduced as \"Leon Oswald,\" visited Silvia Odio in late September 1963; one later phoned to say Leon thought Kennedy should be shot. The Warren Commission was unable to resolve it.",
-   "source": "WR; Ext. Chron. pp. 249, 269",
+   "source": "Warren Report ch. 6; HSCA vol. 10 (anti-Castro activities); Wikipedia, Silvia Odio",
    "type": "Report",
    "date": "1963-09",
    "credibility": "H",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 6",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html"
+    ],
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "Wikipedia: Silvia Odio",
+     "https://en.wikipedia.org/wiki/Silvia_Odio"
+    ]
+   ]
   },
   {
    "id": "b79",
    "text": "Rose Cheramie told a Louisiana trooper on November 20 that Kennedy would be killed in Dallas, and later said Ruby and Oswald knew each other well.",
-   "source": "Ext. Chron. p. 245; Syllabus",
+   "source": "HSCA vol. 10 (anti-Castro activities); Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-20",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 10 (anti-Castro activities)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol10.htm"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b80",
    "text": "Secret Service agent Abraham Bolden says a plot involving a Cuban-linked team was uncovered in Chicago before the President's planned November 2 visit, and that his attempt to tell the Warren Commission led to his prosecution.",
-   "source": "Syllabus; Bolden",
+   "source": "Wikipedia, Abraham Bolden; Bolden",
    "type": "Report",
    "date": "1963-11",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Abraham Bolden",
+     "https://en.wikipedia.org/wiki/Abraham_Bolden"
+    ]
+   ]
   },
   {
    "id": "b81",
    "text": "A Mexico City operator overheard a call on November 24 saying \"the Castro plan is being carried out. Bobby is next\"; one number belonged to a Batista-era ambassador later described as a CIA asset. The Secret Service closed the case without interviewing the other party.",
-   "source": "Ext. Chron. p. 237",
+   "source": "Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-24",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b82",
    "text": "Castro told reporter Daniel Harker on September 7, 1963, that U.S. leaders aiding plots against him would not be safe; he later called a Cuban role in Kennedy's death absurd and said Kennedy was preferable to his successors.",
-   "source": "Church; HSCA",
+   "source": "Church Committee Book V (1976); HSCA Report I.C; Wikipedia, Fidel Castro",
    "type": "Report",
    "date": "1963-09-07",
    "credibility": "H",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "Wikipedia: Fidel Castro",
+     "https://en.wikipedia.org/wiki/Fidel_Castro"
+    ]
+   ]
   },
   {
    "id": "b83",
    "text": "Cuban intelligence general Fabián Escalante later claimed the CIA, the Mafia and Cuban exiles carried out the assassination.",
-   "source": "Ext. Chron. p. 268",
+   "source": "Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1990s",
    "credibility": "L",
    "relevance": "M",
    "notes": "A Cuban government source with an interest in the conclusion.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b84",
    "text": "The KGB and Cuban governments denied involvement; the HSCA found no evidence that either was involved.",
-   "source": "HSCA",
+   "source": "HSCA Report I.C",
    "type": "Report",
    "date": "1979",
    "credibility": "H",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b85",
    "text": "Soviet propaganda and TASS immediately called the case against Oswald suspicious and blamed the American right.",
-   "source": "Ext. Chron. p. 222",
+   "source": "Warren Report ch. 6",
    "type": "Report",
    "date": "1963-11-23",
    "credibility": "H",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Report ch. 6",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html"
+    ]
+   ]
   },
   {
    "id": "b86",
    "text": "Valeriy Kostikov, whom Oswald (or an impersonator) contacted in Mexico City, was believed by the FBI to belong to the KGB department for sabotage and assassination, yet the FBI never questioned Oswald about the contact.",
-   "source": "Sheehan Chron. nn. 114–115",
+   "source": "HSCA Lopez Report (Mexico City); HSCA Report I.C",
    "type": "Report",
    "date": "1963",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Lopez Report (Mexico City)",
+     "https://www.history-matters.com/archive/jfk/hsca/lopezrpt_2003/html/LopezRpt_0001a.htm"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b87",
    "text": "A Hoover memo said Oswald's intercepted letter to the Soviet Embassy was addressed to an official handling assassinations and that publicizing it would \"muddy the waters internationally.\"",
-   "source": "Ext. Chron. p. 241",
+   "source": "Mary Ferrell Foundation archive; Church Committee Book V (1976)",
    "type": "Report",
    "date": "1963-11-25",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ],
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ]
+   ]
   },
   {
    "id": "b88",
    "text": "KGB officer Yuri Nosenko defected in January 1964 saying the KGB never used Oswald; the CIA held him in solitary for over three years, but Hoover and Helms accepted his account.",
-   "source": "Ext. Chron. p. 274",
+   "source": "Wikipedia, Yuri Nosenko; HSCA Report I.C",
    "type": "Report",
    "date": "1964-01-20",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Yuri Nosenko",
+     "https://en.wikipedia.org/wiki/Yuri_Nosenko"
+    ],
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ]
+   ]
   },
   {
    "id": "b89",
    "text": "A KGB officer was later quoted claiming his unit concluded a Corsican hit man hired by French and South Vietnamese interests killed Kennedy; the claim is uncorroborated.",
-   "source": "Ext. Chron. p. 264",
+   "source": "Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "later",
    "credibility": "L",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b90",
    "text": "The FBI received tips from abroad blaming Madame Nhu and South Vietnam's government, three weeks after Diem's killing; none was substantiated.",
-   "source": "Ext. Chron. p. 265",
+   "source": "Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-12-09",
    "credibility": "L",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b91",
    "text": "Jean Souetre, a French OAS officer, was reportedly expelled from Dallas around the time of the assassination; a Houston dentist said the FBI told him they had traced Souetre to Dallas and lost him.",
-   "source": "Ext. Chron. pp. 207, 216",
+   "source": "HSCA Report I.C; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-23",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.C",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1c.html"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b92",
    "text": "President Johnson told aides and lawmakers that a foreign conspiracy story could lead to nuclear war and used this to persuade Warren and others to serve.",
-   "source": "Ext. Chron. pp. 243, 256, 274",
+   "source": "Miller Center, Johnson telephone recordings; Wikipedia, Warren Commission",
    "type": "Report",
    "date": "1963-11-29",
    "credibility": "H",
    "relevance": "M",
    "notes": "Interpreted variously as genuine fear or as pressure toward a lone-gunman finding.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Miller Center, Johnson telephone recordings",
+     "https://millercenter.org/the-presidency/secret-white-house-tapes"
+    ],
+    [
+     "Wikipedia: Warren Commission",
+     "https://en.wikipedia.org/wiki/Warren_Commission"
+    ]
+   ]
   },
   {
    "id": "b93",
    "text": "Johnson aide Cliff Carter phoned DA Henry Wade to keep any allegation of foreign conspiracy out of Oswald's indictment.",
-   "source": "Ext. Chron. pp. 195, 211",
+   "source": "Miller Center, Johnson telephone recordings; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Miller Center, Johnson telephone recordings",
+     "https://millercenter.org/the-presidency/secret-white-house-tapes"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b94",
    "text": "Katzenbach wrote on November 25 that the public must be satisfied Oswald was the assassin with no confederates and that speculation should be cut off.",
-   "source": "Ext. Chron. p. 240",
+   "source": "Wikipedia, Nicholas Katzenbach; Church Committee Book V (1976)",
    "type": "Fact",
    "date": "1963-11-25",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Nicholas Katzenbach",
+     "https://en.wikipedia.org/wiki/Nicholas_Katzenbach"
+    ],
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ]
+   ]
   },
   {
    "id": "b95",
    "text": "Hoover leaked the FBI's lone-gunman conclusion before delivering its report, and the FBI lobbied the Washington Post against an independent commission.",
-   "source": "Ext. Chron. pp. 236, 261",
+   "source": "Church Committee Book V (1976); Wikipedia, J. Edgar Hoover",
    "type": "Report",
    "date": "1963-12",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "Wikipedia: J. Edgar Hoover",
+     "https://en.wikipedia.org/wiki/J._Edgar_Hoover"
+    ]
+   ]
   },
   {
    "id": "b96",
    "text": "Hoover told Johnson in December he believed Oswald was the assassin but was troubled whether he acted alone, citing unproven letters from Cuba.",
-   "source": "Ext. Chron. p. 266",
+   "source": "Church Committee Book V (1976); Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-12-12",
    "credibility": "M",
    "relevance": "H",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Church Committee Book V (1976)",
+     "https://www.intelligence.senate.gov/sites/default/files/94755_V.pdf"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b97",
    "text": "Johnson told aides he believed Kennedy's death was retribution for the Diem coup, and later told reporters he suspected Cuban involvement linked to CIA plots against Castro.",
-   "source": "Ext. Chron. pp. 240, 244",
+   "source": "Miller Center, Johnson telephone recordings",
    "type": "Report",
    "date": "1963–67",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Miller Center, Johnson telephone recordings",
+     "https://millercenter.org/the-presidency/secret-white-house-tapes"
+    ]
+   ]
   },
   {
    "id": "b98",
    "text": "Johnson reportedly told the Joint Chiefs at a December 24 reception, \"Just let me get elected, and then you can have your war.\"",
-   "source": "Ext. Chron. p. 271",
+   "source": "Wikipedia, Lyndon B. Johnson",
    "type": "Report",
    "date": "1963-12-24",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Lyndon B. Johnson",
+     "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+    ]
+   ]
   },
   {
    "id": "b99",
    "text": "NSAM 273 (November 26) reaffirmed the Vietnam withdrawal goal in its approved text but changed some emphasis; a draft dated November 21 existed. Historians disagree whether it reversed Kennedy's policy.",
-   "source": "Ext. Chron. pp. 224, 245",
+   "source": "Wikipedia, National Security Action Memorandum 273",
    "type": "Report",
    "date": "1963-11-26",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: National Security Action Memorandum 273",
+     "https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_273"
+    ]
+   ]
   },
   {
    "id": "b100",
    "text": "Senator Richard Russell told Allen Dulles in Commission session that he thought the CIA would \"doctor anything they hand us.\"",
-   "source": "Ext. Chron. p. 267",
+   "source": "Wikipedia, Richard Russell Jr.; Wikipedia, Warren Commission",
    "type": "Report",
    "date": "1963-12-16",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Richard Russell Jr.",
+     "https://en.wikipedia.org/wiki/Richard_Russell_Jr."
+    ],
+    [
+     "Wikipedia: Warren Commission",
+     "https://en.wikipedia.org/wiki/Warren_Commission"
+    ]
+   ]
   },
   {
    "id": "b101",
    "text": "Richard Helms removed CIA officer John Whitten from the Agency's Oswald inquiry after Whitten complained information was being withheld from him.",
-   "source": "Ext. Chron. p. 263",
+   "source": "Wikipedia, John Whitten; ARRB Final Report (1998)",
    "type": "Report",
    "date": "1963-12-06",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: John Whitten",
+     "https://en.wikipedia.org/wiki/John_Whitten"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b102",
    "text": "A CIA document in Oswald's State Department passport file was destroyed, reportedly by accident, on November 23.",
-   "source": "Ext. Chron. p. 218",
+   "source": "Mary Ferrell Foundation archive; ARRB Final Report (1998)",
    "type": "Report",
    "date": "1963-11-23",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b103",
    "text": "FBI agent James Hosty was ordered to destroy the note Oswald left for him, and the FBI's transcript of Oswald's notebook omitted Hosty's name and number.",
-   "source": "Ext. Chron. pp. 234, 246",
+   "source": "Wikipedia, James P. Hosty; HSCA Report I.D",
    "type": "Fact",
    "date": "1963-11-24",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: James P. Hosty",
+     "https://en.wikipedia.org/wiki/James_P._Hosty"
+    ],
+    [
+     "HSCA Report I.D",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1d.html"
+    ]
+   ]
   },
   {
    "id": "b104",
    "text": "Dallas Police Capt. W.R. Westbrook gave out a detailed Oswald biography within an hour of the arrest, before Oswald had said much; Westbrook later worked in South Vietnam.",
-   "source": "Ext. Chron. p. 183",
+   "source": "Warren Commission hearings and exhibits; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Warren Commission hearings and exhibits",
+     "https://www.history-matters.com/archive/contents/wc/contents_wh.htm"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b105",
    "text": "Oswald attempted a collect call from jail to a John Hurt in Raleigh, a former Army counterintelligence officer; operators said they were told to block it. HSCA counsel Blakey called the call deeply troubling.",
-   "source": "Ext. Chron. p. 202",
+   "source": "HSCA Report I.D; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.D",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1d.html"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b106",
    "text": "Oswald worked at a Dallas photo firm doing classified map work, had a Minox-type camera listed in his effects (later relabeled a light meter), and kept an address book with an FBI agent's details.",
-   "source": "Ext. Chron. pp. 245, 246",
+   "source": "Wikipedia, Lee Harvey Oswald; Warren Report ch. 7",
    "type": "Report",
    "date": "1963",
    "credibility": "L",
    "relevance": "M",
    "notes": "Cited as signs of intelligence ties; not proof.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Lee Harvey Oswald",
+     "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald"
+    ],
+    [
+     "Warren Report ch. 7",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-7.html"
+    ]
+   ]
   },
   {
    "id": "b107",
    "text": "H.L. Hunt sent a security man to check Oswald's jail security on November 23 and met Army intelligence officers about Marina's questioning; Hunt's son had sponsored the hostile \"Welcome Mr. Kennedy\" ad.",
-   "source": "Ext. Chron. pp. 219, 220",
+   "source": "Wikipedia, H. L. Hunt; Mary Ferrell Foundation archive",
    "type": "Report",
    "date": "1963-11-23",
    "credibility": "L",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: H. L. Hunt",
+     "https://en.wikipedia.org/wiki/H._L._Hunt"
+    ],
+    [
+     "Mary Ferrell Foundation archive",
+     "https://www.maryferrell.org/pages/JFK_Assassination.html"
+    ]
+   ]
   },
   {
    "id": "b108",
    "text": "Military aides controlled much of the Bethesda autopsy; Dr. Finck said officials hampered it and the throat wound was not dissected.",
-   "source": "Ext. Chron. pp. 197, 205",
+   "source": "HSCA vol. 7 (medical panel); ARRB Final Report (1998)",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "Cited for a military role; others see ordinary command deference.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA vol. 7 (medical panel)",
+     "https://www.history-matters.com/archive/contents/hsca/contents_hsca_vol7.htm"
+    ],
+    [
+     "ARRB Final Report (1998)",
+     "https://www.archives.gov/research/jfk/review-board/report"
+    ]
+   ]
   },
   {
    "id": "b109",
    "text": "Gen. Curtis LeMay, a sharp critic of Kennedy's Cuba and test-ban policies, was not in Washington on November 22 and returned that evening; no document places him at the autopsy.",
-   "source": "Ext. Chron.; Syllabus App. V",
+   "source": "Wikipedia, Curtis LeMay",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Curtis LeMay",
+     "https://en.wikipedia.org/wiki/Curtis_LeMay"
+    ]
+   ]
   },
   {
    "id": "b110",
    "text": "The Secret Service ordered agents off the limousine's rear in Dallas (agents say at Kennedy's earlier request), left windows along the route unchecked, and some agents had been drinking until early that morning.",
-   "source": "Ext. Chron. pp. 237, 258",
+   "source": "HSCA Report I.D; Warren Report ch. 2",
    "type": "Report",
    "date": "1963-11-22",
    "credibility": "M",
    "relevance": "M",
    "notes": "An internal inquiry found no agent drunk.",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "HSCA Report I.D",
+     "https://www.archives.gov/research/jfk/select-committee-report/part-1d.html"
+    ],
+    [
+     "Warren Report ch. 2",
+     "https://www.archives.gov/research/jfk/warren-commission-report/chapter-2.html"
+    ]
+   ]
   },
   {
    "id": "b111",
    "text": "The Warren Commission was never fully present for testimony; Gerald Ford attended most sessions while privately reporting to Hoover.",
-   "source": "Ext. Chron. p. 262",
+   "source": "Wikipedia, Warren Commission; Wikipedia, Gerald Ford",
    "type": "Report",
    "date": "1964",
    "credibility": "H",
    "relevance": "M",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Wikipedia: Warren Commission",
+     "https://en.wikipedia.org/wiki/Warren_Commission"
+    ],
+    [
+     "Wikipedia: Gerald Ford",
+     "https://en.wikipedia.org/wiki/Gerald_Ford"
+    ]
+   ]
   },
   {
    "id": "b112",
    "text": "Many people linked to the case died within a few years (Kilgallen, Underhill, Pitzer, Ferrie, Roselli, Giancana, de Mohrenschildt); an actuarial claim of improbability has been disputed, and most deaths have ordinary explanations.",
-   "source": "Syllabus; Reitzes",
+   "source": "Reitzes, Skeptic 18.3 (2013); Wikipedia, John F. Kennedy assassination conspiracy theories",
    "type": "Argument",
    "date": "1963–77",
    "credibility": "L",
    "relevance": "L",
    "notes": "",
-   "excluded": false
+   "excluded": false,
+   "links": [
+    [
+     "Reitzes, Skeptic 18.3 (2013)",
+     "https://archive.skeptic.com/archive/reading_room/jfk-conspiracy-theories-at-50-how-the-skeptics-got-it-wrong-and-why-it-matters"
+    ],
+    [
+     "Wikipedia: John F. Kennedy assassination conspiracy theories",
+     "https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories"
+    ]
+   ]
   }
  ],
  "ratings": {},

@@ -27,7 +27,7 @@ export function toMarkdown(a) {
   L.push("Ratings: CC very consistent, C consistent, N neutral, NA not applicable, I inconsistent, II very inconsistent.", "");
   if (set.length) L.push("## Evidence set aside", "", ...set.map(e => `- ${e.text}`), "");
   L.push("## Evidence details", "", "| # | Evidence | Type | Source | Date | Notes |", "|---|---|---|---|---|---|");
-  a.evidence.forEach((e, i) => L.push(`| ${i + 1} | ${mdCell(e.text)} | ${e.type} | ${mdCell(e.source)} | ${mdCell(e.date)} | ${mdCell(e.notes)} |`));
+  a.evidence.forEach((e, i) => L.push(`| ${i + 1} | ${mdCell(e.text)} | ${e.type} | ${(e.links || []).length ? e.links.map(([l, u]) => `[${mdCell(l)}](${u})`).join("; ") : mdCell(e.source)} | ${mdCell(e.date)} | ${mdCell(e.notes)} |`));
   L.push("", "---", "Scoring: each Inconsistent rating counts 1 and each Very inconsistent rating counts 2, multiplied by the evidence's credibility and relevance weights (Low 0.5, Medium 1, High 1.5). Lower scores mean fewer, weaker reasons to reject a hypothesis.");
   return L.join("\n");
 }

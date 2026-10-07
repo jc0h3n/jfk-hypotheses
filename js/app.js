@@ -118,7 +118,7 @@ function renderMatrix() {
       <label class="full">Notes<textarea id="no-${e.id}" rows="2">${esc(e.notes)}</textarea></label></div>` : "";
     return `<tr class="${e.excluded ? "excluded" : ""}">
       <td class="ev"><textarea id="e-${e.id}" rows="2" aria-label="Evidence ${n}">${esc(e.text)}</textarea>
-        <div class="rowtools"><span class="muted">#${n} · ${esc(e.type)}${e.source ? " · " + esc(e.source) : ""}</span>
+        <div class="rowtools"><span class="muted">#${n} · ${esc(e.type)}${sourceHtml(e)}</span>
           <button class="link" data-act="more" data-id="${e.id}">${open.has(e.id) ? "Hide details" : "Details"}</button>
           <label><input type="checkbox" id="ex-${e.id}"${e.excluded ? "" : " checked"}> Use in scores</label>
           <button class="link" data-act="del-e" data-id="${e.id}">Delete</button></div>${more}</td>
@@ -160,6 +160,14 @@ function renderChecks() {
   const left = list.filter(c => !c.done).length;
   $("checks").querySelector("summary").textContent = left ? `Next steps (${8 - left} of 8 done)` : "All eight steps done";
   $("checks-list").innerHTML = list.map(c => `<li class="${c.done ? "done" : ""}"><span class="stepno">${c.done ? "✓" : ""} Step ${c.step}</span><span><b>${esc(c.title)}</b>${c.done ? "" : `<br>${esc(c.text)}`}</span></li>`).join("");
+}
+
+// Public sources as links when the item has them (published analyses do); otherwise the typed source text
+function sourceHtml(e) {
+  const links = (e.links || []).filter(l => Array.isArray(l) && String(l[1]).startsWith("https://"));
+  if (links.length) return " · " + links.map(([label, url]) => `<a href="${esc(url)}" target="_blank" rel="noopener" title="Check this source">${esc(label.replace(/^Wikipedia: /, "Wikipedia, "))}</a>`).join("; ")
+    + (e.source.split(/;\s*/).filter(s => !links.some(l => l[0].replace(/^Wikipedia: /, "Wikipedia, ") === s)).map(s => "; " + esc(s)).join(""));
+  return e.source ? " · " + esc(e.source) : "";
 }
 
 // ---- Report -----------------------------------------------------------------------------------------
